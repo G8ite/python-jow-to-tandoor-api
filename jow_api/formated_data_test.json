@@ -1,0 +1,4568 @@
+{
+  "meta": {},
+  "data": {
+    "content": [
+      {
+        "source": "jow",
+        "_id": "6408681f4217ec47a45f5c77",
+        "id": "6408681f4217ec47a45f5c77",
+        "author": {
+          "id": "628e83757e720d1f671cf4af",
+          "name": "Hannah",
+          "imageUrl": "authors/2FqUStIw4GftWg.jpg.webp",
+          "_id": "628e83757e720d1f671cf4af"
+        },
+        "backgroundPattern": {
+          "color": "#9d1716",
+          "imageUrl": "patterns/beet-05-202309.png"
+        },
+        "composition": "Poulet, pomme de terre, citron, thym",
+        "cookingTime": 100,
+        "createdAt": "2023-03-09T23:00:00.000Z",
+        "description": "Le poulet rôti du dimanche en version simple & efficace !",
+        "eatingHabitsCompatibility": {
+          "porkless": true,
+          "vegetarian": false,
+          "vegan": false,
+          "glutenFree": true,
+          "dairyFree": false,
+          "pescatarian": false
+        },
+        "likes": 16854,
+        "negativeFeedbacks": 0,
+        "notTrivialRequiredToolsIds": [
+          "59ccb6a4bb08340012ca6b9a"
+        ],
+        "positiveFeedbacks": 3,
+        "preparationTime": 6,
+        "pricePerPortion": 337,
+        "pricePerPortionTag": {
+          "level": 2,
+          "currency": "EUR",
+          "label": "2 € et 4 € par portion"
+        },
+        "restingTime": 10,
+        "roundedCoversCount": 4,
+        "tags": [
+          {
+            "_id": "64832262e710f2ffd0a88525",
+            "id": "64832262e710f2ffd0a88525",
+            "createdAt": "2023-06-09T13:00:18.869Z",
+            "keywords": "",
+            "name": "Sheet pan",
+            "updatedAt": "2023-06-09T13:00:18.869Z"
+          },
+          {
+            "_id": "6932f0a41456b75f680e8d22",
+            "id": "6932f0a41456b75f680e8d22",
+            "__v": 0,
+            "availabilityZones": [
+              "FR"
+            ],
+            "createdAt": "2025-12-05T14:48:04.392Z",
+            "forceSearchByTag": false,
+            "keywords": "famille, famile, family, tout en un, tout-en-un, one pot, one-pot, one pan, one-pan, gratin, recettes de famille, plats familiaux, plat familial, recette pour la famille, pour la famille, recette familial, familial, familal, familia, gros plat, grosses portions, meal prep, tout en un, tout en 1, à partager, plat à partager, organisation",
+            "name": "Familial",
+            "updatedAt": "2026-01-21T16:03:33.169Z"
+          }
+        ],
+        "tagsEdito": [],
+        "title": "Poulet rôti au citron",
+        "aggregateRating": 0.9398692810457516,
+        "totalFeedbacks": 153,
+        "labels": [],
+        "origins": [],
+        "categories": [],
+        "badges": [
+          {
+            "type": "rating",
+            "value": 4.7
+          },
+          {
+            "type": "duration",
+            "preparationTime": 6,
+            "cookingTime": 100,
+            "preparationExtraTimePerCover": 1
+          }
+        ],
+        "indicatorBadges": [
+          {
+            "type": "rating",
+            "value": 4.7
+          },
+          {
+            "type": "duration",
+            "preparationTime": 6,
+            "cookingTime": 100,
+            "preparationExtraTimePerCover": 1
+          },
+          {
+            "type": "price-per-portion",
+            "level": 2,
+            "accessibilityLabel": "2 € et 4 € par portion",
+            "currency": "EUR"
+          }
+        ],
+        "availableLocales": [
+          "fr",
+          "en"
+        ],
+        "difficulty": 1,
+        "editorialPictureUrl": "recipes/Nxi2H2hWxZjODg.jpg",
+        "imageWithBackgroundPatternUrl": "patterns/beet-05-202309.png_merge_recipes/PgPgvhVBfeqhRQ.png.jpg",
+        "isVisible": true,
+        "minimumCoversRequired": 1,
+        "origin": {
+          "_id": "59808e6aaa829f00114a0f11",
+          "id": "59808e6aaa829f00114a0f11",
+          "updatedAt": "2022-06-01T18:34:33.338Z",
+          "createdAt": "2017-08-01T14:21:30.055Z",
+          "name": "Française",
+          "__v": 0,
+          "keywords": ""
+        },
+        "preparationExtraTimePerCover": 1,
+        "requiredTools": [
+          {
+            "_id": "59ccb6a4bb08340012ca6b9a",
+            "id": "59ccb6a4bb08340012ca6b9a",
+            "updatedAt": "2024-10-28T11:06:59.337Z",
+            "createdAt": "2017-09-28T08:45:24.402Z",
+            "imageUrl": "tools/PMq1FjiP805SNQ.png.webp",
+            "name": "Four",
+            "isNotTrivial": true,
+            "__v": 6,
+            "childrenTools": [],
+            "availabilityZones": [
+              "FR",
+              "US"
+            ],
+            "isDefaultChecked": false
+          },
+          {
+            "_id": "61791839985feb0ee8c4f312",
+            "id": "61791839985feb0ee8c4f312",
+            "__v": 1,
+            "availabilityZones": [
+              "FR",
+              "US"
+            ],
+            "childrenTools": [],
+            "createdAt": "2021-10-27T09:13:29.792Z",
+            "isDefaultChecked": false,
+            "isNotTrivial": false,
+            "name": "Plat à gratin",
+            "updatedAt": "2022-04-27T15:39:10.876Z"
+          }
+        ],
+        "seasons": [],
+        "seasonality": {
+          "jan": true,
+          "feb": true,
+          "mar": true,
+          "apr": true,
+          "may": true,
+          "jun": true,
+          "jul": true,
+          "aug": true,
+          "sep": true,
+          "oct": true,
+          "nov": true,
+          "dec": true
+        },
+        "slug": "poulet-roti-au-citron",
+        "type": "recipe",
+        "videoUrl": "recipes/pukkD2PxxZsxJg_transcoded.mp4",
+        "constituents": [
+          {
+            "isOptional": false,
+            "ingredient": {
+              "_id": "59eb9d2640250c00129d980e",
+              "id": "59eb9d2640250c00129d980e",
+              "alternativeUnits": [
+                {
+                  "_id": "616fd0c10d62e50eecea79a6",
+                  "id": "616fd0c10d62e50eecea79a6",
+                  "unit": {
+                    "_id": "60784a80562bb1877f930f56",
+                    "id": "60784a80562bb1877f930f56",
+                    "__v": 3,
+                    "abbreviations": [
+                      {
+                        "label": " ",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "6229f8868531a979c77b2239",
+                        "id": "6229f8868531a979c77b2239",
+                        "minAmount": 0,
+                        "maxAmount": 1
+                      },
+                      {
+                        "label": " ",
+                        "digits": 1,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "6229f8868531a979c77b223a",
+                        "id": "6229f8868531a979c77b223a",
+                        "minAmount": 1
+                      }
+                    ],
+                    "comments": "US size",
+                    "createdAt": "2021-04-15T14:15:28.338Z",
+                    "isNatural": false,
+                    "measurementSystemCompatibility": {
+                      "metric": true,
+                      "imperial": true,
+                      "us": true
+                    },
+                    "name": "Pièce",
+                    "updatedAt": "2022-03-10T13:09:26.740Z"
+                  },
+                  "quantity": 1
+                }
+              ],
+              "imageUrl": "ingredients/lnc28T3dsuTvrQ.png.webp",
+              "name": "Poulet (entier)",
+              "naturalUnit": {
+                "_id": "598c23d414246c127285c14b",
+                "id": "598c23d414246c127285c14b",
+                "updatedAt": "2025-03-26T09:59:21.516Z",
+                "createdAt": "2017-08-10T09:13:57.000Z",
+                "isNatural": true,
+                "name": "Pièce",
+                "__v": 11,
+                "measurementSystemCompatibility": {
+                  "metric": true,
+                  "imperial": true,
+                  "us": true
+                },
+                "abbreviations": [
+                  {
+                    "minAmount": 0,
+                    "maxAmount": 1,
+                    "digits": 0,
+                    "divisor": 1,
+                    "inverse": true,
+                    "_id": "6229f8718531a979c77b221f",
+                    "id": "6229f8718531a979c77b221f",
+                    "label": " "
+                  },
+                  {
+                    "minAmount": 1,
+                    "digits": 1,
+                    "divisor": 1,
+                    "inverse": false,
+                    "_id": "6229f8718531a979c77b2220",
+                    "id": "6229f8718531a979c77b2220",
+                    "label": " "
+                  }
+                ],
+                "comments": "taille FR naturelle"
+              },
+              "quantityPerCover": 0.25
+            },
+            "unit": {
+              "_id": "598c23d414246c127285c14b",
+              "id": "598c23d414246c127285c14b"
+            },
+            "additionalMeasures": [],
+            "alternatives": []
+          },
+          {
+            "isOptional": false,
+            "ingredient": {
+              "_id": "59aadc42797a8c0011177856",
+              "id": "59aadc42797a8c0011177856",
+              "alternativeUnits": [
+                {
+                  "_id": "59aee385ea471e00112bed17",
+                  "id": "59aee385ea471e00112bed17",
+                  "unit": {
+                    "_id": "59aadbd4797a8c0011177854",
+                    "id": "59aadbd4797a8c0011177854",
+                    "updatedAt": "2025-03-26T09:59:37.116Z",
+                    "createdAt": "2017-09-02T16:27:00.318Z",
+                    "name": "Pièce",
+                    "__v": 8,
+                    "measurementSystemCompatibility": {
+                      "metric": true,
+                      "imperial": true,
+                      "us": true
+                    },
+                    "abbreviations": [
+                      {
+                        "minAmount": 0,
+                        "maxAmount": 1,
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "6229f87c8531a979c77b222c",
+                        "id": "6229f87c8531a979c77b222c",
+                        "label": " "
+                      },
+                      {
+                        "minAmount": 1,
+                        "digits": 1,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "63f4ca979b0e113c174f3f29",
+                        "id": "63f4ca979b0e113c174f3f29",
+                        "label": " "
+                      }
+                    ],
+                    "comments": "taille FR alternative"
+                  },
+                  "quantity": 0.16
+                },
+                {
+                  "_id": "61571fc817d8e10eba6fd168",
+                  "id": "61571fc817d8e10eba6fd168",
+                  "unit": {
+                    "_id": "5d8096b75c978d3f685f5e5e",
+                    "id": "5d8096b75c978d3f685f5e5e",
+                    "measurementSystemCompatibility": {
+                      "metric": false,
+                      "imperial": true,
+                      "us": true
+                    },
+                    "name": "Once",
+                    "isNatural": false,
+                    "createdAt": "2019-09-17T08:17:59.909Z",
+                    "updatedAt": "2020-03-05T10:14:37.145Z",
+                    "__v": 6,
+                    "abbreviations": [
+                      {
+                        "label": "oz",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "5e60d10d47401d500e61eb82",
+                        "id": "5e60d10d47401d500e61eb82",
+                        "minAmount": 0,
+                        "maxAmount": 1
+                      },
+                      {
+                        "label": "oz",
+                        "digits": 1,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "5e60d10d47401d500e61eb81",
+                        "id": "5e60d10d47401d500e61eb81",
+                        "minAmount": 1
+                      }
+                    ]
+                  },
+                  "quantity": 0.028
+                },
+                {
+                  "_id": "61571fc817d8e10eba6fd16c",
+                  "id": "61571fc817d8e10eba6fd16c",
+                  "unit": {
+                    "_id": "5d809c8fb982cb6b3d7586c8",
+                    "id": "5d809c8fb982cb6b3d7586c8",
+                    "measurementSystemCompatibility": {
+                      "metric": false,
+                      "imperial": true,
+                      "us": true
+                    },
+                    "name": "Livre",
+                    "createdAt": "2019-09-17T08:42:55.648Z",
+                    "updatedAt": "2022-09-13T15:41:17.272Z",
+                    "__v": 6,
+                    "abbreviations": [
+                      {
+                        "label": "liv.",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "6320a4741338013d40782139",
+                        "id": "6320a4741338013d40782139",
+                        "minAmount": 0,
+                        "maxAmount": 1.001
+                      },
+                      {
+                        "label": "liv.",
+                        "digits": 1,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "6320a49d1338013d4078214a",
+                        "id": "6320a49d1338013d4078214a",
+                        "minAmount": 1.001
+                      }
+                    ]
+                  },
+                  "quantity": 0.454
+                },
+                {
+                  "_id": "61571fc817d8e10eba6fd16f",
+                  "id": "61571fc817d8e10eba6fd16f",
+                  "unit": {
+                    "_id": "60784a80562bb1877f930f56",
+                    "id": "60784a80562bb1877f930f56",
+                    "__v": 3,
+                    "abbreviations": [
+                      {
+                        "label": " ",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "6229f8868531a979c77b2239",
+                        "id": "6229f8868531a979c77b2239",
+                        "minAmount": 0,
+                        "maxAmount": 1
+                      },
+                      {
+                        "label": " ",
+                        "digits": 1,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "6229f8868531a979c77b223a",
+                        "id": "6229f8868531a979c77b223a",
+                        "minAmount": 1
+                      }
+                    ],
+                    "comments": "US size",
+                    "createdAt": "2021-04-15T14:15:28.338Z",
+                    "isNatural": false,
+                    "measurementSystemCompatibility": {
+                      "metric": true,
+                      "imperial": true,
+                      "us": true
+                    },
+                    "name": "Pièce",
+                    "updatedAt": "2022-03-10T13:09:26.740Z"
+                  },
+                  "quantity": 0.16
+                }
+              ],
+              "imageUrl": "ingredients/AAfLEEPhsvb8lQ.png.webp",
+              "name": "Pommes de terre",
+              "naturalUnit": {
+                "_id": "598c239e14246c127285c14a",
+                "id": "598c239e14246c127285c14a",
+                "updatedAt": "2025-03-26T09:57:46.671Z",
+                "createdAt": "2017-08-10T09:13:02.818Z",
+                "isNatural": true,
+                "name": "Kilogramme",
+                "__v": 17,
+                "measurementSystemCompatibility": {
+                  "metric": true,
+                  "imperial": false,
+                  "us": false
+                },
+                "abbreviations": [
+                  {
+                    "minAmount": 0,
+                    "maxAmount": 0.001,
+                    "digits": 0,
+                    "divisor": 1000000,
+                    "inverse": false,
+                    "_id": "5e60d30747401d500e61eb8d",
+                    "id": "5e60d30747401d500e61eb8d",
+                    "label": "mg"
+                  },
+                  {
+                    "minAmount": 0.001,
+                    "maxAmount": 1,
+                    "digits": 0,
+                    "divisor": 1000,
+                    "inverse": false,
+                    "_id": "5e5fc70840f533a26f0ad471",
+                    "id": "5e5fc70840f533a26f0ad471",
+                    "label": "g"
+                  },
+                  {
+                    "minAmount": 1,
+                    "digits": 1,
+                    "divisor": 1,
+                    "inverse": false,
+                    "_id": "5e5fd473a9d69f51009e1dea",
+                    "id": "5e5fd473a9d69f51009e1dea",
+                    "label": "kg"
+                  }
+                ],
+                "comments": "naturelle"
+              },
+              "quantityPerCover": 0.1
+            },
+            "unit": {
+              "_id": "598c239e14246c127285c14a",
+              "id": "598c239e14246c127285c14a"
+            },
+            "additionalMeasures": [],
+            "alternatives": []
+          },
+          {
+            "isOptional": false,
+            "ingredient": {
+              "_id": "5989bcd55d25fb001101593d",
+              "id": "5989bcd55d25fb001101593d",
+              "alternativeUnits": [
+                {
+                  "_id": "59b853318b98250012a9b619",
+                  "id": "59b853318b98250012a9b619",
+                  "unit": {
+                    "_id": "59aadbd4797a8c0011177854",
+                    "id": "59aadbd4797a8c0011177854",
+                    "updatedAt": "2025-03-26T09:59:37.116Z",
+                    "createdAt": "2017-09-02T16:27:00.318Z",
+                    "name": "Pièce",
+                    "__v": 8,
+                    "measurementSystemCompatibility": {
+                      "metric": true,
+                      "imperial": true,
+                      "us": true
+                    },
+                    "abbreviations": [
+                      {
+                        "minAmount": 0,
+                        "maxAmount": 1,
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "6229f87c8531a979c77b222c",
+                        "id": "6229f87c8531a979c77b222c",
+                        "label": " "
+                      },
+                      {
+                        "minAmount": 1,
+                        "digits": 1,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "63f4ca979b0e113c174f3f29",
+                        "id": "63f4ca979b0e113c174f3f29",
+                        "label": " "
+                      }
+                    ],
+                    "comments": "taille FR alternative"
+                  },
+                  "quantity": 0.13
+                },
+                {
+                  "_id": "618901410e99cd7cd6c6efd5",
+                  "id": "618901410e99cd7cd6c6efd5",
+                  "unit": {
+                    "_id": "5d8096b75c978d3f685f5e5e",
+                    "id": "5d8096b75c978d3f685f5e5e",
+                    "measurementSystemCompatibility": {
+                      "metric": false,
+                      "imperial": true,
+                      "us": true
+                    },
+                    "name": "Once",
+                    "isNatural": false,
+                    "createdAt": "2019-09-17T08:17:59.909Z",
+                    "updatedAt": "2020-03-05T10:14:37.145Z",
+                    "__v": 6,
+                    "abbreviations": [
+                      {
+                        "label": "oz",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "5e60d10d47401d500e61eb82",
+                        "id": "5e60d10d47401d500e61eb82",
+                        "minAmount": 0,
+                        "maxAmount": 1
+                      },
+                      {
+                        "label": "oz",
+                        "digits": 1,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "5e60d10d47401d500e61eb81",
+                        "id": "5e60d10d47401d500e61eb81",
+                        "minAmount": 1
+                      }
+                    ]
+                  },
+                  "quantity": 0.028
+                },
+                {
+                  "_id": "618901410e99cd7cd6c6efd9",
+                  "id": "618901410e99cd7cd6c6efd9",
+                  "unit": {
+                    "_id": "5d809c8fb982cb6b3d7586c8",
+                    "id": "5d809c8fb982cb6b3d7586c8",
+                    "measurementSystemCompatibility": {
+                      "metric": false,
+                      "imperial": true,
+                      "us": true
+                    },
+                    "name": "Livre",
+                    "createdAt": "2019-09-17T08:42:55.648Z",
+                    "updatedAt": "2022-09-13T15:41:17.272Z",
+                    "__v": 6,
+                    "abbreviations": [
+                      {
+                        "label": "liv.",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "6320a4741338013d40782139",
+                        "id": "6320a4741338013d40782139",
+                        "minAmount": 0,
+                        "maxAmount": 1.001
+                      },
+                      {
+                        "label": "liv.",
+                        "digits": 1,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "6320a49d1338013d4078214a",
+                        "id": "6320a49d1338013d4078214a",
+                        "minAmount": 1.001
+                      }
+                    ]
+                  },
+                  "quantity": 0.454
+                },
+                {
+                  "_id": "618901410e99cd7cd6c6efdc",
+                  "id": "618901410e99cd7cd6c6efdc",
+                  "unit": {
+                    "_id": "60784a80562bb1877f930f56",
+                    "id": "60784a80562bb1877f930f56",
+                    "__v": 3,
+                    "abbreviations": [
+                      {
+                        "label": " ",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "6229f8868531a979c77b2239",
+                        "id": "6229f8868531a979c77b2239",
+                        "minAmount": 0,
+                        "maxAmount": 1
+                      },
+                      {
+                        "label": " ",
+                        "digits": 1,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "6229f8868531a979c77b223a",
+                        "id": "6229f8868531a979c77b223a",
+                        "minAmount": 1
+                      }
+                    ],
+                    "comments": "US size",
+                    "createdAt": "2021-04-15T14:15:28.338Z",
+                    "isNatural": false,
+                    "measurementSystemCompatibility": {
+                      "metric": true,
+                      "imperial": true,
+                      "us": true
+                    },
+                    "name": "Pièce",
+                    "updatedAt": "2022-03-10T13:09:26.740Z"
+                  },
+                  "quantity": 0.13
+                },
+                {
+                  "_id": "61f3f9b1a14dfa3f97de4eb0",
+                  "id": "61f3f9b1a14dfa3f97de4eb0",
+                  "unit": {
+                    "_id": "61e93573bb60e2173a4b6cda",
+                    "id": "61e93573bb60e2173a4b6cda",
+                    "__v": 3,
+                    "abbreviations": [
+                      {
+                        "label": "quartiers",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "66267013c75561000f71f024",
+                        "id": "66267013c75561000f71f024",
+                        "minAmount": 1
+                      }
+                    ],
+                    "createdAt": "2022-01-20T10:12:03.009Z",
+                    "measurementSystemCompatibility": {
+                      "metric": true,
+                      "imperial": false,
+                      "us": true
+                    },
+                    "name": "Quartier",
+                    "updatedAt": "2024-04-22T14:11:31.569Z"
+                  },
+                  "quantity": 0.01625
+                },
+                {
+                  "_id": "63bebc345d06593b61f08390",
+                  "id": "63bebc345d06593b61f08390",
+                  "unit": {
+                    "_id": "598c240914246c127285c14c",
+                    "id": "598c240914246c127285c14c",
+                    "updatedAt": "2022-04-29T16:14:20.000Z",
+                    "createdAt": "2017-08-10T09:14:49.127Z",
+                    "name": "Tranche",
+                    "__v": 4,
+                    "measurementSystemCompatibility": {
+                      "metric": true,
+                      "imperial": true,
+                      "us": true
+                    },
+                    "abbreviations": [
+                      {
+                        "label": "tran.",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "626c0edb6daa450587ca6333",
+                        "id": "626c0edb6daa450587ca6333",
+                        "minAmount": 0,
+                        "maxAmount": 1.001
+                      },
+                      {
+                        "label": "tran.",
+                        "digits": 1,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "626c0edb6daa450587ca6334",
+                        "id": "626c0edb6daa450587ca6334",
+                        "minAmount": 1.001
+                      }
+                    ]
+                  },
+                  "quantity": 0.02
+                }
+              ],
+              "imageUrl": "ingredients/Tu2kzA0Ds3RFuw.jpg.webp",
+              "name": "Citron jaune",
+              "naturalUnit": {
+                "_id": "598c239e14246c127285c14a",
+                "id": "598c239e14246c127285c14a",
+                "updatedAt": "2025-03-26T09:57:46.671Z",
+                "createdAt": "2017-08-10T09:13:02.818Z",
+                "isNatural": true,
+                "name": "Kilogramme",
+                "__v": 17,
+                "measurementSystemCompatibility": {
+                  "metric": true,
+                  "imperial": false,
+                  "us": false
+                },
+                "abbreviations": [
+                  {
+                    "minAmount": 0,
+                    "maxAmount": 0.001,
+                    "digits": 0,
+                    "divisor": 1000000,
+                    "inverse": false,
+                    "_id": "5e60d30747401d500e61eb8d",
+                    "id": "5e60d30747401d500e61eb8d",
+                    "label": "mg"
+                  },
+                  {
+                    "minAmount": 0.001,
+                    "maxAmount": 1,
+                    "digits": 0,
+                    "divisor": 1000,
+                    "inverse": false,
+                    "_id": "5e5fc70840f533a26f0ad471",
+                    "id": "5e5fc70840f533a26f0ad471",
+                    "label": "g"
+                  },
+                  {
+                    "minAmount": 1,
+                    "digits": 1,
+                    "divisor": 1,
+                    "inverse": false,
+                    "_id": "5e5fd473a9d69f51009e1dea",
+                    "id": "5e5fd473a9d69f51009e1dea",
+                    "label": "kg"
+                  }
+                ],
+                "comments": "naturelle"
+              },
+              "quantityPerCover": 0.25
+            },
+            "unit": {
+              "_id": "59aadbd4797a8c0011177854",
+              "id": "59aadbd4797a8c0011177854"
+            },
+            "additionalMeasures": [],
+            "alternatives": []
+          },
+          {
+            "isOptional": false,
+            "ingredient": {
+              "_id": "5ab67ceaa6af220014e9eb90",
+              "id": "5ab67ceaa6af220014e9eb90",
+              "alternativeUnits": [
+                {
+                  "_id": "5e7a182b399bf956b6b470fa",
+                  "id": "5e7a182b399bf956b6b470fa",
+                  "unit": {
+                    "_id": "59aee0b9ce73010011243bc5",
+                    "id": "59aee0b9ce73010011243bc5",
+                    "updatedAt": "2022-09-06T09:18:53.137Z",
+                    "createdAt": "2017-09-05T17:36:57.104Z",
+                    "name": "Pincée",
+                    "__v": 4,
+                    "measurementSystemCompatibility": {
+                      "metric": true,
+                      "imperial": true,
+                      "us": true
+                    },
+                    "abbreviations": [
+                      {
+                        "label": "pinc.",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "6317107d8b7db411a9b062b6",
+                        "id": "6317107d8b7db411a9b062b6",
+                        "minAmount": 0,
+                        "maxAmount": 1.001
+                      },
+                      {
+                        "label": "pinc.",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "6317107d8b7db411a9b062b7",
+                        "id": "6317107d8b7db411a9b062b7",
+                        "minAmount": 1.001
+                      }
+                    ]
+                  },
+                  "quantity": 0.001
+                },
+                {
+                  "_id": "5f49087283271bc9f9fb0859",
+                  "id": "5f49087283271bc9f9fb0859",
+                  "unit": {
+                    "_id": "599215cce9f1de001116bbb5",
+                    "id": "599215cce9f1de001116bbb5",
+                    "updatedAt": "2021-11-16T11:13:33.964Z",
+                    "createdAt": "2017-08-14T21:27:40.521Z",
+                    "name": "Cuillère à café",
+                    "__v": 2,
+                    "measurementSystemCompatibility": {
+                      "metric": true,
+                      "imperial": true,
+                      "us": true
+                    },
+                    "abbreviations": [
+                      {
+                        "label": "càc",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "5e5fc39240f533a26f0ad3eb",
+                        "id": "5e5fc39240f533a26f0ad3eb",
+                        "minAmount": 0,
+                        "maxAmount": 1
+                      },
+                      {
+                        "label": "càc",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "5e5fc39240f533a26f0ad3ea",
+                        "id": "5e5fc39240f533a26f0ad3ea",
+                        "minAmount": 1
+                      }
+                    ]
+                  },
+                  "quantity": 0.004
+                },
+                {
+                  "_id": "5f49087283271bc9f9fb085a",
+                  "id": "5f49087283271bc9f9fb085a",
+                  "unit": {
+                    "_id": "599215dde9f1de001116bbb6",
+                    "id": "599215dde9f1de001116bbb6",
+                    "updatedAt": "2021-11-22T16:18:56.411Z",
+                    "createdAt": "2017-08-14T21:27:57.899Z",
+                    "name": "Cuillère à soupe",
+                    "__v": 4,
+                    "measurementSystemCompatibility": {
+                      "metric": true,
+                      "imperial": true,
+                      "us": true
+                    },
+                    "abbreviations": [
+                      {
+                        "label": "càs",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "619bc2f0934d1027ae7f53fb",
+                        "id": "619bc2f0934d1027ae7f53fb",
+                        "minAmount": 0,
+                        "maxAmount": 1
+                      },
+                      {
+                        "label": "càs",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "619bc2f0934d1027ae7f53fc",
+                        "id": "619bc2f0934d1027ae7f53fc",
+                        "minAmount": 1
+                      }
+                    ]
+                  },
+                  "quantity": 0.01
+                },
+                {
+                  "_id": "61a7aa086a167b0f040ba467",
+                  "id": "61a7aa086a167b0f040ba467",
+                  "unit": {
+                    "_id": "5d8096b75c978d3f685f5e5e",
+                    "id": "5d8096b75c978d3f685f5e5e",
+                    "measurementSystemCompatibility": {
+                      "metric": false,
+                      "imperial": true,
+                      "us": true
+                    },
+                    "name": "Once",
+                    "isNatural": false,
+                    "createdAt": "2019-09-17T08:17:59.909Z",
+                    "updatedAt": "2020-03-05T10:14:37.145Z",
+                    "__v": 6,
+                    "abbreviations": [
+                      {
+                        "label": "oz",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "5e60d10d47401d500e61eb82",
+                        "id": "5e60d10d47401d500e61eb82",
+                        "minAmount": 0,
+                        "maxAmount": 1
+                      },
+                      {
+                        "label": "oz",
+                        "digits": 1,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "5e60d10d47401d500e61eb81",
+                        "id": "5e60d10d47401d500e61eb81",
+                        "minAmount": 1
+                      }
+                    ]
+                  },
+                  "quantity": 0.028
+                },
+                {
+                  "_id": "61a7aa086a167b0f040ba46b",
+                  "id": "61a7aa086a167b0f040ba46b",
+                  "unit": {
+                    "_id": "5d809c8fb982cb6b3d7586c8",
+                    "id": "5d809c8fb982cb6b3d7586c8",
+                    "measurementSystemCompatibility": {
+                      "metric": false,
+                      "imperial": true,
+                      "us": true
+                    },
+                    "name": "Livre",
+                    "createdAt": "2019-09-17T08:42:55.648Z",
+                    "updatedAt": "2022-09-13T15:41:17.272Z",
+                    "__v": 6,
+                    "abbreviations": [
+                      {
+                        "label": "liv.",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "6320a4741338013d40782139",
+                        "id": "6320a4741338013d40782139",
+                        "minAmount": 0,
+                        "maxAmount": 1.001
+                      },
+                      {
+                        "label": "liv.",
+                        "digits": 1,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "6320a49d1338013d4078214a",
+                        "id": "6320a49d1338013d4078214a",
+                        "minAmount": 1.001
+                      }
+                    ]
+                  },
+                  "quantity": 0.454
+                },
+                {
+                  "_id": "62729f389affa173c865de98",
+                  "id": "62729f389affa173c865de98",
+                  "unit": {
+                    "_id": "623b21bae8fcfd16ad7b26ec",
+                    "id": "623b21bae8fcfd16ad7b26ec",
+                    "__v": 1,
+                    "abbreviations": [
+                      {
+                        "label": "brin",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "6243188573b88a5edb5e0f08",
+                        "id": "6243188573b88a5edb5e0f08",
+                        "minAmount": 0,
+                        "maxAmount": 1.001
+                      },
+                      {
+                        "label": "brins",
+                        "digits": 1,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "6243188573b88a5edb5e0f09",
+                        "id": "6243188573b88a5edb5e0f09",
+                        "minAmount": 1.001
+                      }
+                    ],
+                    "createdAt": "2022-03-23T13:33:46.305Z",
+                    "measurementSystemCompatibility": {
+                      "metric": true,
+                      "imperial": true,
+                      "us": true
+                    },
+                    "name": "Brin",
+                    "updatedAt": "2022-03-29T14:32:37.438Z"
+                  },
+                  "quantity": 0.005
+                }
+              ],
+              "imageUrl": "ingredients/MyaenN7NudNAIQ.png.webp",
+              "name": "Thym (branches)",
+              "naturalUnit": {
+                "_id": "598c239e14246c127285c14a",
+                "id": "598c239e14246c127285c14a",
+                "updatedAt": "2025-03-26T09:57:46.671Z",
+                "createdAt": "2017-08-10T09:13:02.818Z",
+                "isNatural": true,
+                "name": "Kilogramme",
+                "__v": 17,
+                "measurementSystemCompatibility": {
+                  "metric": true,
+                  "imperial": false,
+                  "us": false
+                },
+                "abbreviations": [
+                  {
+                    "minAmount": 0,
+                    "maxAmount": 0.001,
+                    "digits": 0,
+                    "divisor": 1000000,
+                    "inverse": false,
+                    "_id": "5e60d30747401d500e61eb8d",
+                    "id": "5e60d30747401d500e61eb8d",
+                    "label": "mg"
+                  },
+                  {
+                    "minAmount": 0.001,
+                    "maxAmount": 1,
+                    "digits": 0,
+                    "divisor": 1000,
+                    "inverse": false,
+                    "_id": "5e5fc70840f533a26f0ad471",
+                    "id": "5e5fc70840f533a26f0ad471",
+                    "label": "g"
+                  },
+                  {
+                    "minAmount": 1,
+                    "digits": 1,
+                    "divisor": 1,
+                    "inverse": false,
+                    "_id": "5e5fd473a9d69f51009e1dea",
+                    "id": "5e5fd473a9d69f51009e1dea",
+                    "label": "kg"
+                  }
+                ],
+                "comments": "naturelle"
+              },
+              "quantityPerCover": 1
+            },
+            "unit": {
+              "_id": "59aee0b9ce73010011243bc5",
+              "id": "59aee0b9ce73010011243bc5"
+            },
+            "additionalMeasures": [],
+            "alternatives": [
+              {
+                "ingredient": {
+                  "_id": "5ab67d13a6af220014e9eb91",
+                  "id": "5ab67d13a6af220014e9eb91",
+                  "name": "Thym (feuilles)",
+                  "imageUrl": "ingredients/R9WMic3ZXpbJdA.png.webp"
+                }
+              }
+            ]
+          },
+          {
+            "isOptional": false,
+            "ingredient": {
+              "_id": "59aaeb63797a8c001117786f",
+              "id": "59aaeb63797a8c001117786f",
+              "alternativeUnits": [
+                {
+                  "unit": {
+                    "_id": "59aadbd4797a8c0011177854",
+                    "id": "59aadbd4797a8c0011177854",
+                    "updatedAt": "2025-03-26T09:59:37.116Z",
+                    "createdAt": "2017-09-02T16:27:00.318Z",
+                    "name": "Pièce",
+                    "__v": 8,
+                    "measurementSystemCompatibility": {
+                      "metric": true,
+                      "imperial": true,
+                      "us": true
+                    },
+                    "abbreviations": [
+                      {
+                        "minAmount": 0,
+                        "maxAmount": 1,
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "6229f87c8531a979c77b222c",
+                        "id": "6229f87c8531a979c77b222c",
+                        "label": " "
+                      },
+                      {
+                        "minAmount": 1,
+                        "digits": 1,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "63f4ca979b0e113c174f3f29",
+                        "id": "63f4ca979b0e113c174f3f29",
+                        "label": " "
+                      }
+                    ],
+                    "comments": "taille FR alternative"
+                  },
+                  "quantity": 0.15,
+                  "_id": "59b105d7aa9f3000121dd054",
+                  "id": "59b105d7aa9f3000121dd054"
+                },
+                {
+                  "unit": {
+                    "_id": "5d8096b75c978d3f685f5e5e",
+                    "id": "5d8096b75c978d3f685f5e5e",
+                    "measurementSystemCompatibility": {
+                      "metric": false,
+                      "imperial": true,
+                      "us": true
+                    },
+                    "name": "Once",
+                    "isNatural": false,
+                    "createdAt": "2019-09-17T08:17:59.909Z",
+                    "updatedAt": "2020-03-05T10:14:37.145Z",
+                    "__v": 6,
+                    "abbreviations": [
+                      {
+                        "label": "oz",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "5e60d10d47401d500e61eb82",
+                        "id": "5e60d10d47401d500e61eb82",
+                        "minAmount": 0,
+                        "maxAmount": 1
+                      },
+                      {
+                        "label": "oz",
+                        "digits": 1,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "5e60d10d47401d500e61eb81",
+                        "id": "5e60d10d47401d500e61eb81",
+                        "minAmount": 1
+                      }
+                    ]
+                  },
+                  "quantity": 0.028,
+                  "_id": "615709d917d8e10eba6fd02c",
+                  "id": "615709d917d8e10eba6fd02c"
+                },
+                {
+                  "unit": {
+                    "_id": "5d809c8fb982cb6b3d7586c8",
+                    "id": "5d809c8fb982cb6b3d7586c8",
+                    "measurementSystemCompatibility": {
+                      "metric": false,
+                      "imperial": true,
+                      "us": true
+                    },
+                    "name": "Livre",
+                    "createdAt": "2019-09-17T08:42:55.648Z",
+                    "updatedAt": "2022-09-13T15:41:17.272Z",
+                    "__v": 6,
+                    "abbreviations": [
+                      {
+                        "label": "liv.",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "6320a4741338013d40782139",
+                        "id": "6320a4741338013d40782139",
+                        "minAmount": 0,
+                        "maxAmount": 1.001
+                      },
+                      {
+                        "label": "liv.",
+                        "digits": 1,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "6320a49d1338013d4078214a",
+                        "id": "6320a49d1338013d4078214a",
+                        "minAmount": 1.001
+                      }
+                    ]
+                  },
+                  "quantity": 0.454,
+                  "_id": "615709d917d8e10eba6fd030",
+                  "id": "615709d917d8e10eba6fd030"
+                },
+                {
+                  "unit": {
+                    "_id": "60784a80562bb1877f930f56",
+                    "id": "60784a80562bb1877f930f56",
+                    "__v": 3,
+                    "abbreviations": [
+                      {
+                        "label": " ",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "6229f8868531a979c77b2239",
+                        "id": "6229f8868531a979c77b2239",
+                        "minAmount": 0,
+                        "maxAmount": 1
+                      },
+                      {
+                        "label": " ",
+                        "digits": 1,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "6229f8868531a979c77b223a",
+                        "id": "6229f8868531a979c77b223a",
+                        "minAmount": 1
+                      }
+                    ],
+                    "comments": "US size",
+                    "createdAt": "2021-04-15T14:15:28.338Z",
+                    "isNatural": false,
+                    "measurementSystemCompatibility": {
+                      "metric": true,
+                      "imperial": true,
+                      "us": true
+                    },
+                    "name": "Pièce",
+                    "updatedAt": "2022-03-10T13:09:26.740Z"
+                  },
+                  "quantity": 0.15,
+                  "_id": "615709d917d8e10eba6fd033",
+                  "id": "615709d917d8e10eba6fd033"
+                }
+              ],
+              "imageUrl": "ingredients/uDefZpqTfk15Dg.jpg.webp",
+              "name": "Oignon jaune",
+              "naturalUnit": {
+                "_id": "598c239e14246c127285c14a",
+                "id": "598c239e14246c127285c14a",
+                "updatedAt": "2025-03-26T09:57:46.671Z",
+                "createdAt": "2017-08-10T09:13:02.818Z",
+                "isNatural": true,
+                "name": "Kilogramme",
+                "__v": 17,
+                "measurementSystemCompatibility": {
+                  "metric": true,
+                  "imperial": false,
+                  "us": false
+                },
+                "abbreviations": [
+                  {
+                    "minAmount": 0,
+                    "maxAmount": 0.001,
+                    "digits": 0,
+                    "divisor": 1000000,
+                    "inverse": false,
+                    "_id": "5e60d30747401d500e61eb8d",
+                    "id": "5e60d30747401d500e61eb8d",
+                    "label": "mg"
+                  },
+                  {
+                    "minAmount": 0.001,
+                    "maxAmount": 1,
+                    "digits": 0,
+                    "divisor": 1000,
+                    "inverse": false,
+                    "_id": "5e5fc70840f533a26f0ad471",
+                    "id": "5e5fc70840f533a26f0ad471",
+                    "label": "g"
+                  },
+                  {
+                    "minAmount": 1,
+                    "digits": 1,
+                    "divisor": 1,
+                    "inverse": false,
+                    "_id": "5e5fd473a9d69f51009e1dea",
+                    "id": "5e5fd473a9d69f51009e1dea",
+                    "label": "kg"
+                  }
+                ],
+                "comments": "naturelle"
+              },
+              "quantityPerCover": 0.5
+            },
+            "unit": {
+              "_id": "59aadbd4797a8c0011177854",
+              "id": "59aadbd4797a8c0011177854"
+            },
+            "additionalMeasures": [],
+            "alternatives": []
+          },
+          {
+            "isOptional": false,
+            "ingredient": {
+              "_id": "59eb9e2440250c00129d9819",
+              "id": "59eb9e2440250c00129d9819",
+              "alternativeUnits": [
+                {
+                  "unit": {
+                    "_id": "5d8096b75c978d3f685f5e5e",
+                    "id": "5d8096b75c978d3f685f5e5e",
+                    "measurementSystemCompatibility": {
+                      "metric": false,
+                      "imperial": true,
+                      "us": true
+                    },
+                    "name": "Once",
+                    "isNatural": false,
+                    "createdAt": "2019-09-17T08:17:59.909Z",
+                    "updatedAt": "2020-03-05T10:14:37.145Z",
+                    "__v": 6,
+                    "abbreviations": [
+                      {
+                        "label": "oz",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "5e60d10d47401d500e61eb82",
+                        "id": "5e60d10d47401d500e61eb82",
+                        "minAmount": 0,
+                        "maxAmount": 1
+                      },
+                      {
+                        "label": "oz",
+                        "digits": 1,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "5e60d10d47401d500e61eb81",
+                        "id": "5e60d10d47401d500e61eb81",
+                        "minAmount": 1
+                      }
+                    ]
+                  },
+                  "quantity": 0.02835,
+                  "_id": "5d8097095c978d3f685f5e61",
+                  "id": "5d8097095c978d3f685f5e61"
+                },
+                {
+                  "unit": {
+                    "_id": "5f48c2d80ad1321bcd82ffce",
+                    "id": "5f48c2d80ad1321bcd82ffce",
+                    "__v": 3,
+                    "abbreviations": [
+                      {
+                        "label": "dab",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "6202a427bef7766cf53910ca",
+                        "id": "6202a427bef7766cf53910ca",
+                        "minAmount": 0,
+                        "maxAmount": 1
+                      }
+                    ],
+                    "createdAt": "2020-08-28T08:39:52.965Z",
+                    "measurementSystemCompatibility": {
+                      "metric": true,
+                      "imperial": false,
+                      "us": false
+                    },
+                    "name": "Noisette",
+                    "updatedAt": "2022-02-08T17:11:03.287Z"
+                  },
+                  "quantity": 0.008,
+                  "_id": "5f48c3310ad1321bcd82ffdd",
+                  "id": "5f48c3310ad1321bcd82ffdd"
+                },
+                {
+                  "unit": {
+                    "_id": "5d809c8fb982cb6b3d7586c8",
+                    "id": "5d809c8fb982cb6b3d7586c8",
+                    "measurementSystemCompatibility": {
+                      "metric": false,
+                      "imperial": true,
+                      "us": true
+                    },
+                    "name": "Livre",
+                    "createdAt": "2019-09-17T08:42:55.648Z",
+                    "updatedAt": "2022-09-13T15:41:17.272Z",
+                    "__v": 6,
+                    "abbreviations": [
+                      {
+                        "label": "liv.",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "6320a4741338013d40782139",
+                        "id": "6320a4741338013d40782139",
+                        "minAmount": 0,
+                        "maxAmount": 1.001
+                      },
+                      {
+                        "label": "liv.",
+                        "digits": 1,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "6320a49d1338013d4078214a",
+                        "id": "6320a49d1338013d4078214a",
+                        "minAmount": 1.001
+                      }
+                    ]
+                  },
+                  "quantity": 0.454,
+                  "_id": "60ae6888d97f350ec521035c",
+                  "id": "60ae6888d97f350ec521035c"
+                },
+                {
+                  "unit": {
+                    "_id": "5cb881fc5acada2b81b7398a",
+                    "id": "5cb881fc5acada2b81b7398a",
+                    "name": "Cup",
+                    "createdAt": "2019-04-18T13:56:12.571Z",
+                    "updatedAt": "2022-03-29T14:03:55.297Z",
+                    "__v": 24,
+                    "abbreviations": [
+                      {
+                        "label": "cup",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "624311cb73b88a5edb5dfa1d",
+                        "id": "624311cb73b88a5edb5dfa1d",
+                        "minAmount": 0,
+                        "maxAmount": 1.001
+                      },
+                      {
+                        "label": "cups",
+                        "digits": 1,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "624311cb73b88a5edb5dfa1e",
+                        "id": "624311cb73b88a5edb5dfa1e",
+                        "minAmount": 1.001
+                      }
+                    ],
+                    "measurementSystemCompatibility": {
+                      "imperial": false,
+                      "metric": false,
+                      "us": true
+                    }
+                  },
+                  "quantity": 0.227,
+                  "_id": "60ae6888d97f350ec521035f",
+                  "id": "60ae6888d97f350ec521035f"
+                },
+                {
+                  "unit": {
+                    "_id": "599215dde9f1de001116bbb6",
+                    "id": "599215dde9f1de001116bbb6",
+                    "updatedAt": "2021-11-22T16:18:56.411Z",
+                    "createdAt": "2017-08-14T21:27:57.899Z",
+                    "name": "Cuillère à soupe",
+                    "__v": 4,
+                    "measurementSystemCompatibility": {
+                      "metric": true,
+                      "imperial": true,
+                      "us": true
+                    },
+                    "abbreviations": [
+                      {
+                        "label": "càs",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "619bc2f0934d1027ae7f53fb",
+                        "id": "619bc2f0934d1027ae7f53fb",
+                        "minAmount": 0,
+                        "maxAmount": 1
+                      },
+                      {
+                        "label": "càs",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "619bc2f0934d1027ae7f53fc",
+                        "id": "619bc2f0934d1027ae7f53fc",
+                        "minAmount": 1
+                      }
+                    ]
+                  },
+                  "quantity": 0.014,
+                  "_id": "60ae6888d97f350ec5210363",
+                  "id": "60ae6888d97f350ec5210363"
+                },
+                {
+                  "unit": {
+                    "_id": "599215cce9f1de001116bbb5",
+                    "id": "599215cce9f1de001116bbb5",
+                    "updatedAt": "2021-11-16T11:13:33.964Z",
+                    "createdAt": "2017-08-14T21:27:40.521Z",
+                    "name": "Cuillère à café",
+                    "__v": 2,
+                    "measurementSystemCompatibility": {
+                      "metric": true,
+                      "imperial": true,
+                      "us": true
+                    },
+                    "abbreviations": [
+                      {
+                        "label": "càc",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "5e5fc39240f533a26f0ad3eb",
+                        "id": "5e5fc39240f533a26f0ad3eb",
+                        "minAmount": 0,
+                        "maxAmount": 1
+                      },
+                      {
+                        "label": "càc",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "5e5fc39240f533a26f0ad3ea",
+                        "id": "5e5fc39240f533a26f0ad3ea",
+                        "minAmount": 1
+                      }
+                    ]
+                  },
+                  "quantity": 0.004,
+                  "_id": "60ae6888d97f350ec5210367",
+                  "id": "60ae6888d97f350ec5210367"
+                }
+              ],
+              "imageUrl": "ingredients/enheudgtrxVpfw.png.webp",
+              "name": "Beurre",
+              "naturalUnit": {
+                "_id": "598c239e14246c127285c14a",
+                "id": "598c239e14246c127285c14a",
+                "updatedAt": "2025-03-26T09:57:46.671Z",
+                "createdAt": "2017-08-10T09:13:02.818Z",
+                "isNatural": true,
+                "name": "Kilogramme",
+                "__v": 17,
+                "measurementSystemCompatibility": {
+                  "metric": true,
+                  "imperial": false,
+                  "us": false
+                },
+                "abbreviations": [
+                  {
+                    "minAmount": 0,
+                    "maxAmount": 0.001,
+                    "digits": 0,
+                    "divisor": 1000000,
+                    "inverse": false,
+                    "_id": "5e60d30747401d500e61eb8d",
+                    "id": "5e60d30747401d500e61eb8d",
+                    "label": "mg"
+                  },
+                  {
+                    "minAmount": 0.001,
+                    "maxAmount": 1,
+                    "digits": 0,
+                    "divisor": 1000,
+                    "inverse": false,
+                    "_id": "5e5fc70840f533a26f0ad471",
+                    "id": "5e5fc70840f533a26f0ad471",
+                    "label": "g"
+                  },
+                  {
+                    "minAmount": 1,
+                    "digits": 1,
+                    "divisor": 1,
+                    "inverse": false,
+                    "_id": "5e5fd473a9d69f51009e1dea",
+                    "id": "5e5fd473a9d69f51009e1dea",
+                    "label": "kg"
+                  }
+                ],
+                "comments": "naturelle"
+              },
+              "quantityPerCover": 0.02
+            },
+            "unit": {
+              "_id": "598c239e14246c127285c14a",
+              "id": "598c239e14246c127285c14a"
+            },
+            "additionalMeasures": [],
+            "alternatives": []
+          }
+        ],
+        "imageUrl": "recipes/PgPgvhVBfeqhRQ.png",
+        "isAvailable": true,
+        "isTasteCompatible": true,
+        "unavailableIngredientsIds": [],
+        "isRecipeAuthor": false
+      },
+      {
+        "source": "jow",
+        "_id": "6aac028a7c0d04ced9674218",
+        "id": "6aac028a7c0d04ced9674218",
+        "author": {
+          "id": "67868372adff7c000edb6657",
+          "name": "Barbara",
+          "imageUrl": "authors/RwTHRWs8FfBgpw.jpg.webp",
+          "_id": "67868372adff7c000edb6657"
+        },
+        "backgroundPattern": {
+          "color": "#ffc847",
+          "imageUrl": "patterns/yolk-05-202309.png"
+        },
+        "composition": "Pois chiches, tomates concassées, oignons, ail, épinards",
+        "cookingTime": 14,
+        "createdAt": "2026-09-29T22:00:00.000Z",
+        "description": "One pot... jackpot !",
+        "eatingHabitsCompatibility": {
+          "porkless": true,
+          "vegetarian": true,
+          "vegan": false,
+          "glutenFree": false,
+          "dairyFree": false,
+          "pescatarian": true
+        },
+        "likes": 4160,
+        "negativeFeedbacks": 0,
+        "notTrivialRequiredToolsIds": [
+          "5a85c3bd7e086300146d8761"
+        ],
+        "positiveFeedbacks": 0,
+        "preparationTime": 2,
+        "pricePerPortion": 190,
+        "pricePerPortionTag": {
+          "level": 1,
+          "currency": "EUR",
+          "label": "-2 € par portion"
+        },
+        "restingTime": None,
+        "roundedCoversCount": 1,
+        "tags": [
+          {
+            "_id": "63933919552b757616f4a268",
+            "id": "63933919552b757616f4a268",
+            "__v": 0,
+            "createdAt": "2022-12-09T13:33:13.053Z",
+            "name": "SPONSO",
+            "updatedAt": "2022-12-09T13:33:13.053Z"
+          },
+          {
+            "_id": "6932f0a41456b75f680e8d22",
+            "id": "6932f0a41456b75f680e8d22",
+            "__v": 0,
+            "availabilityZones": [
+              "FR"
+            ],
+            "createdAt": "2025-12-05T14:48:04.392Z",
+            "forceSearchByTag": false,
+            "keywords": "famille, famile, family, tout en un, tout-en-un, one pot, one-pot, one pan, one-pan, gratin, recettes de famille, plats familiaux, plat familial, recette pour la famille, pour la famille, recette familial, familial, familal, familia, gros plat, grosses portions, meal prep, tout en un, tout en 1, à partager, plat à partager, organisation",
+            "name": "Familial",
+            "updatedAt": "2026-01-21T16:03:33.169Z"
+          }
+        ],
+        "tagsEdito": [],
+        "title": "One pot pois chiches, épinards & feta",
+        "aggregateRating": 0.8869565217391304,
+        "totalFeedbacks": 46,
+        "labels": [],
+        "origins": [],
+        "categories": [],
+        "badges": [
+          {
+            "type": "rating",
+            "value": 4.4
+          },
+          {
+            "type": "duration",
+            "preparationTime": 2,
+            "cookingTime": 14,
+            "preparationExtraTimePerCover": 2
+          },
+          {
+            "type": "low-price",
+            "accessibilityLabel": "-2 € par portion",
+            "currency": "EUR"
+          }
+        ],
+        "indicatorBadges": [
+          {
+            "type": "rating",
+            "value": 4.4
+          },
+          {
+            "type": "duration",
+            "preparationTime": 2,
+            "cookingTime": 14,
+            "preparationExtraTimePerCover": 2
+          },
+          {
+            "type": "price-per-portion",
+            "level": 1,
+            "accessibilityLabel": "-2 € par portion",
+            "currency": "EUR"
+          }
+        ],
+        "availableLocales": [
+          "fr"
+        ],
+        "difficulty": 1,
+        "editorialPictureUrl": "recipes/Srhwgmub23XUMg.jpg",
+        "imageWithBackgroundPatternUrl": "patterns/yolk-05-202309.png_merge_recipes/BuB7IsZvEePZRg.png.jpg",
+        "isVisible": true,
+        "minimumCoversRequired": 1,
+        "preparationExtraTimePerCover": 2,
+        "requiredTools": [
+          {
+            "_id": "5a85c3bd7e086300146d8761",
+            "id": "5a85c3bd7e086300146d8761",
+            "updatedAt": "2024-10-28T11:09:56.435Z",
+            "createdAt": "2018-02-15T17:30:37.172Z",
+            "imageUrl": "tools/KwLdRqoUnt9ipw.png.webp",
+            "name": "Plaques de cuisson",
+            "isDefaultChecked": true,
+            "childrenTools": [],
+            "isNotTrivial": true,
+            "__v": 1,
+            "availabilityZones": [
+              "FR",
+              "US"
+            ]
+          },
+          {
+            "_id": "598b3ffcfd078b00111409f9",
+            "id": "598b3ffcfd078b00111409f9",
+            "updatedAt": "2021-11-22T14:33:45.727Z",
+            "createdAt": "2017-08-09T17:01:48.901Z",
+            "imageUrl": "tools/w4oVUkDcBN.png",
+            "name": "Casserole",
+            "__v": 2,
+            "childrenTools": [],
+            "isNotTrivial": false,
+            "availabilityZones": [
+              "FR",
+              "US"
+            ],
+            "isDefaultChecked": false
+          }
+        ],
+        "seasons": [],
+        "seasonality": {
+          "jan": true,
+          "feb": true,
+          "mar": true,
+          "apr": true,
+          "may": true,
+          "jun": true,
+          "jul": true,
+          "aug": true,
+          "sep": true,
+          "oct": true,
+          "nov": true,
+          "dec": true
+        },
+        "slug": "one-pot-pois-chiches-epinards-et-feta",
+        "type": "recipe",
+        "videoUrl": "recipes/5ZmnlP0yXSlfvA_transcoded.mp4",
+        "videoDuration": 48.014633,
+        "constituents": [
+          {
+            "isOptional": false,
+            "ingredient": {
+              "_id": "59900e7bc966e50011d5a526",
+              "id": "59900e7bc966e50011d5a526",
+              "alternativeUnits": [
+                {
+                  "_id": "60ae663cd97f350ec521021a",
+                  "id": "60ae663cd97f350ec521021a",
+                  "unit": {
+                    "_id": "5d8096b75c978d3f685f5e5e",
+                    "id": "5d8096b75c978d3f685f5e5e",
+                    "measurementSystemCompatibility": {
+                      "metric": false,
+                      "imperial": true,
+                      "us": true
+                    },
+                    "name": "Once",
+                    "isNatural": false,
+                    "createdAt": "2019-09-17T08:17:59.909Z",
+                    "updatedAt": "2020-03-05T10:14:37.145Z",
+                    "__v": 6,
+                    "abbreviations": [
+                      {
+                        "label": "oz",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "5e60d10d47401d500e61eb82",
+                        "id": "5e60d10d47401d500e61eb82",
+                        "minAmount": 0,
+                        "maxAmount": 1
+                      },
+                      {
+                        "label": "oz",
+                        "digits": 1,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "5e60d10d47401d500e61eb81",
+                        "id": "5e60d10d47401d500e61eb81",
+                        "minAmount": 1
+                      }
+                    ]
+                  },
+                  "quantity": 0.028
+                },
+                {
+                  "_id": "60ae663cd97f350ec521021e",
+                  "id": "60ae663cd97f350ec521021e",
+                  "unit": {
+                    "_id": "5d809c8fb982cb6b3d7586c8",
+                    "id": "5d809c8fb982cb6b3d7586c8",
+                    "measurementSystemCompatibility": {
+                      "metric": false,
+                      "imperial": true,
+                      "us": true
+                    },
+                    "name": "Livre",
+                    "createdAt": "2019-09-17T08:42:55.648Z",
+                    "updatedAt": "2022-09-13T15:41:17.272Z",
+                    "__v": 6,
+                    "abbreviations": [
+                      {
+                        "label": "liv.",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "6320a4741338013d40782139",
+                        "id": "6320a4741338013d40782139",
+                        "minAmount": 0,
+                        "maxAmount": 1.001
+                      },
+                      {
+                        "label": "liv.",
+                        "digits": 1,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "6320a49d1338013d4078214a",
+                        "id": "6320a49d1338013d4078214a",
+                        "minAmount": 1.001
+                      }
+                    ]
+                  },
+                  "quantity": 0.454
+                },
+                {
+                  "_id": "60ae663cd97f350ec5210221",
+                  "id": "60ae663cd97f350ec5210221",
+                  "unit": {
+                    "_id": "5cb881fc5acada2b81b7398a",
+                    "id": "5cb881fc5acada2b81b7398a",
+                    "name": "Cup",
+                    "createdAt": "2019-04-18T13:56:12.571Z",
+                    "updatedAt": "2022-03-29T14:03:55.297Z",
+                    "__v": 24,
+                    "abbreviations": [
+                      {
+                        "label": "cup",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "624311cb73b88a5edb5dfa1d",
+                        "id": "624311cb73b88a5edb5dfa1d",
+                        "minAmount": 0,
+                        "maxAmount": 1.001
+                      },
+                      {
+                        "label": "cups",
+                        "digits": 1,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "624311cb73b88a5edb5dfa1e",
+                        "id": "624311cb73b88a5edb5dfa1e",
+                        "minAmount": 1.001
+                      }
+                    ],
+                    "measurementSystemCompatibility": {
+                      "imperial": false,
+                      "metric": false,
+                      "us": true
+                    }
+                  },
+                  "quantity": 0.18
+                },
+                {
+                  "_id": "63beb0525d06593b61f07f80",
+                  "id": "63beb0525d06593b61f07f80",
+                  "unit": {
+                    "_id": "598c980ffd48320011c1af0b",
+                    "id": "598c980ffd48320011c1af0b",
+                    "updatedAt": "2020-03-04T16:30:30.041Z",
+                    "createdAt": "2017-08-10T17:29:51.211Z",
+                    "name": "Verre",
+                    "__v": 3,
+                    "measurementSystemCompatibility": {
+                      "metric": true,
+                      "imperial": true,
+                      "us": true
+                    },
+                    "abbreviations": [
+                      {
+                        "label": "ver.",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "5e5fd32227300826ec78af60",
+                        "id": "5e5fd32227300826ec78af60",
+                        "minAmount": 0,
+                        "maxAmount": 1
+                      },
+                      {
+                        "label": "ver.",
+                        "digits": 1,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "5e5fd529a9d69f51009e1e09",
+                        "id": "5e5fd529a9d69f51009e1e09",
+                        "minAmount": 1
+                      }
+                    ]
+                  },
+                  "quantity": 0.24
+                }
+              ],
+              "imageUrl": "ingredients/kAcw7cc1GNOlMQ.jpg.webp",
+              "name": "Pois chiches (cuits)",
+              "naturalUnit": {
+                "_id": "598c239e14246c127285c14a",
+                "id": "598c239e14246c127285c14a",
+                "updatedAt": "2025-03-26T09:57:46.671Z",
+                "createdAt": "2017-08-10T09:13:02.818Z",
+                "isNatural": true,
+                "name": "Kilogramme",
+                "__v": 17,
+                "measurementSystemCompatibility": {
+                  "metric": true,
+                  "imperial": false,
+                  "us": false
+                },
+                "abbreviations": [
+                  {
+                    "minAmount": 0,
+                    "maxAmount": 0.001,
+                    "digits": 0,
+                    "divisor": 1000000,
+                    "inverse": false,
+                    "_id": "5e60d30747401d500e61eb8d",
+                    "id": "5e60d30747401d500e61eb8d",
+                    "label": "mg"
+                  },
+                  {
+                    "minAmount": 0.001,
+                    "maxAmount": 1,
+                    "digits": 0,
+                    "divisor": 1000,
+                    "inverse": false,
+                    "_id": "5e5fc70840f533a26f0ad471",
+                    "id": "5e5fc70840f533a26f0ad471",
+                    "label": "g"
+                  },
+                  {
+                    "minAmount": 1,
+                    "digits": 1,
+                    "divisor": 1,
+                    "inverse": false,
+                    "_id": "5e5fd473a9d69f51009e1dea",
+                    "id": "5e5fd473a9d69f51009e1dea",
+                    "label": "kg"
+                  }
+                ],
+                "comments": "naturelle"
+              },
+              "quantityPerCover": 0.125
+            },
+            "unit": {
+              "_id": "598c239e14246c127285c14a",
+              "id": "598c239e14246c127285c14a"
+            },
+            "additionalMeasures": [],
+            "alternatives": []
+          },
+          {
+            "isOptional": false,
+            "ingredient": {
+              "_id": "5a6f88ee74e4420014d45b70",
+              "id": "5a6f88ee74e4420014d45b70",
+              "alternativeUnits": [
+                {
+                  "_id": "61f41fc3e180e84a204e6b95",
+                  "id": "61f41fc3e180e84a204e6b95",
+                  "unit": {
+                    "_id": "5d8096b75c978d3f685f5e5e",
+                    "id": "5d8096b75c978d3f685f5e5e",
+                    "measurementSystemCompatibility": {
+                      "metric": false,
+                      "imperial": true,
+                      "us": true
+                    },
+                    "name": "Once",
+                    "isNatural": false,
+                    "createdAt": "2019-09-17T08:17:59.909Z",
+                    "updatedAt": "2020-03-05T10:14:37.145Z",
+                    "__v": 6,
+                    "abbreviations": [
+                      {
+                        "label": "oz",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "5e60d10d47401d500e61eb82",
+                        "id": "5e60d10d47401d500e61eb82",
+                        "minAmount": 0,
+                        "maxAmount": 1
+                      },
+                      {
+                        "label": "oz",
+                        "digits": 1,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "5e60d10d47401d500e61eb81",
+                        "id": "5e60d10d47401d500e61eb81",
+                        "minAmount": 1
+                      }
+                    ]
+                  },
+                  "quantity": 0.028
+                },
+                {
+                  "_id": "61f41fc3e180e84a204e6b99",
+                  "id": "61f41fc3e180e84a204e6b99",
+                  "unit": {
+                    "_id": "5d809c8fb982cb6b3d7586c8",
+                    "id": "5d809c8fb982cb6b3d7586c8",
+                    "measurementSystemCompatibility": {
+                      "metric": false,
+                      "imperial": true,
+                      "us": true
+                    },
+                    "name": "Livre",
+                    "createdAt": "2019-09-17T08:42:55.648Z",
+                    "updatedAt": "2022-09-13T15:41:17.272Z",
+                    "__v": 6,
+                    "abbreviations": [
+                      {
+                        "label": "liv.",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "6320a4741338013d40782139",
+                        "id": "6320a4741338013d40782139",
+                        "minAmount": 0,
+                        "maxAmount": 1.001
+                      },
+                      {
+                        "label": "liv.",
+                        "digits": 1,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "6320a49d1338013d4078214a",
+                        "id": "6320a49d1338013d4078214a",
+                        "minAmount": 1.001
+                      }
+                    ]
+                  },
+                  "quantity": 0.454
+                },
+                {
+                  "_id": "6228c5a98531a979c77a8120",
+                  "id": "6228c5a98531a979c77a8120",
+                  "unit": {
+                    "_id": "5cb881fc5acada2b81b7398a",
+                    "id": "5cb881fc5acada2b81b7398a",
+                    "name": "Cup",
+                    "createdAt": "2019-04-18T13:56:12.571Z",
+                    "updatedAt": "2022-03-29T14:03:55.297Z",
+                    "__v": 24,
+                    "abbreviations": [
+                      {
+                        "label": "cup",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "624311cb73b88a5edb5dfa1d",
+                        "id": "624311cb73b88a5edb5dfa1d",
+                        "minAmount": 0,
+                        "maxAmount": 1.001
+                      },
+                      {
+                        "label": "cups",
+                        "digits": 1,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "624311cb73b88a5edb5dfa1e",
+                        "id": "624311cb73b88a5edb5dfa1e",
+                        "minAmount": 1.001
+                      }
+                    ],
+                    "measurementSystemCompatibility": {
+                      "imperial": false,
+                      "metric": false,
+                      "us": true
+                    }
+                  },
+                  "quantity": 0.114
+                }
+              ],
+              "imageUrl": "ingredients/rxwcSaUxQyEWrg.jpg.webp",
+              "name": "Épinards (surgelés)",
+              "naturalUnit": {
+                "_id": "598c239e14246c127285c14a",
+                "id": "598c239e14246c127285c14a",
+                "updatedAt": "2025-03-26T09:57:46.671Z",
+                "createdAt": "2017-08-10T09:13:02.818Z",
+                "isNatural": true,
+                "name": "Kilogramme",
+                "__v": 17,
+                "measurementSystemCompatibility": {
+                  "metric": true,
+                  "imperial": false,
+                  "us": false
+                },
+                "abbreviations": [
+                  {
+                    "minAmount": 0,
+                    "maxAmount": 0.001,
+                    "digits": 0,
+                    "divisor": 1000000,
+                    "inverse": false,
+                    "_id": "5e60d30747401d500e61eb8d",
+                    "id": "5e60d30747401d500e61eb8d",
+                    "label": "mg"
+                  },
+                  {
+                    "minAmount": 0.001,
+                    "maxAmount": 1,
+                    "digits": 0,
+                    "divisor": 1000,
+                    "inverse": false,
+                    "_id": "5e5fc70840f533a26f0ad471",
+                    "id": "5e5fc70840f533a26f0ad471",
+                    "label": "g"
+                  },
+                  {
+                    "minAmount": 1,
+                    "digits": 1,
+                    "divisor": 1,
+                    "inverse": false,
+                    "_id": "5e5fd473a9d69f51009e1dea",
+                    "id": "5e5fd473a9d69f51009e1dea",
+                    "label": "kg"
+                  }
+                ],
+                "comments": "naturelle"
+              },
+              "quantityPerCover": 0.08
+            },
+            "unit": {
+              "_id": "598c239e14246c127285c14a",
+              "id": "598c239e14246c127285c14a"
+            },
+            "additionalMeasures": [],
+            "alternatives": []
+          },
+          {
+            "isOptional": false,
+            "ingredient": {
+              "_id": "63340ea9b60fcd33bf084d1d",
+              "id": "63340ea9b60fcd33bf084d1d",
+              "alternativeUnits": [
+                {
+                  "_id": "63340ea9b60fcd33bf084d23",
+                  "id": "63340ea9b60fcd33bf084d23",
+                  "unit": {
+                    "_id": "599215dde9f1de001116bbb6",
+                    "id": "599215dde9f1de001116bbb6",
+                    "updatedAt": "2021-11-22T16:18:56.411Z",
+                    "createdAt": "2017-08-14T21:27:57.899Z",
+                    "name": "Cuillère à soupe",
+                    "__v": 4,
+                    "measurementSystemCompatibility": {
+                      "metric": true,
+                      "imperial": true,
+                      "us": true
+                    },
+                    "abbreviations": [
+                      {
+                        "label": "càs",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "619bc2f0934d1027ae7f53fb",
+                        "id": "619bc2f0934d1027ae7f53fb",
+                        "minAmount": 0,
+                        "maxAmount": 1
+                      },
+                      {
+                        "label": "càs",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "619bc2f0934d1027ae7f53fc",
+                        "id": "619bc2f0934d1027ae7f53fc",
+                        "minAmount": 1
+                      }
+                    ]
+                  },
+                  "quantity": 0.014
+                },
+                {
+                  "_id": "63614f197188f92715ec78f4",
+                  "id": "63614f197188f92715ec78f4",
+                  "unit": {
+                    "_id": "5cb881fc5acada2b81b7398a",
+                    "id": "5cb881fc5acada2b81b7398a",
+                    "name": "Cup",
+                    "createdAt": "2019-04-18T13:56:12.571Z",
+                    "updatedAt": "2022-03-29T14:03:55.297Z",
+                    "__v": 24,
+                    "abbreviations": [
+                      {
+                        "label": "cup",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "624311cb73b88a5edb5dfa1d",
+                        "id": "624311cb73b88a5edb5dfa1d",
+                        "minAmount": 0,
+                        "maxAmount": 1.001
+                      },
+                      {
+                        "label": "cups",
+                        "digits": 1,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "624311cb73b88a5edb5dfa1e",
+                        "id": "624311cb73b88a5edb5dfa1e",
+                        "minAmount": 1.001
+                      }
+                    ],
+                    "measurementSystemCompatibility": {
+                      "imperial": false,
+                      "metric": false,
+                      "us": true
+                    }
+                  },
+                  "quantity": 0.24
+                },
+                {
+                  "_id": "636523887188f92715ed07c1",
+                  "id": "636523887188f92715ed07c1",
+                  "unit": {
+                    "_id": "5d8096b75c978d3f685f5e5e",
+                    "id": "5d8096b75c978d3f685f5e5e",
+                    "measurementSystemCompatibility": {
+                      "metric": false,
+                      "imperial": true,
+                      "us": true
+                    },
+                    "name": "Once",
+                    "isNatural": false,
+                    "createdAt": "2019-09-17T08:17:59.909Z",
+                    "updatedAt": "2020-03-05T10:14:37.145Z",
+                    "__v": 6,
+                    "abbreviations": [
+                      {
+                        "label": "oz",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "5e60d10d47401d500e61eb82",
+                        "id": "5e60d10d47401d500e61eb82",
+                        "minAmount": 0,
+                        "maxAmount": 1
+                      },
+                      {
+                        "label": "oz",
+                        "digits": 1,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "5e60d10d47401d500e61eb81",
+                        "id": "5e60d10d47401d500e61eb81",
+                        "minAmount": 1
+                      }
+                    ]
+                  },
+                  "quantity": 0.028
+                },
+                {
+                  "_id": "636523887188f92715ed07c5",
+                  "id": "636523887188f92715ed07c5",
+                  "unit": {
+                    "_id": "5d809c8fb982cb6b3d7586c8",
+                    "id": "5d809c8fb982cb6b3d7586c8",
+                    "measurementSystemCompatibility": {
+                      "metric": false,
+                      "imperial": true,
+                      "us": true
+                    },
+                    "name": "Livre",
+                    "createdAt": "2019-09-17T08:42:55.648Z",
+                    "updatedAt": "2022-09-13T15:41:17.272Z",
+                    "__v": 6,
+                    "abbreviations": [
+                      {
+                        "label": "liv.",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "6320a4741338013d40782139",
+                        "id": "6320a4741338013d40782139",
+                        "minAmount": 0,
+                        "maxAmount": 1.001
+                      },
+                      {
+                        "label": "liv.",
+                        "digits": 1,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "6320a49d1338013d4078214a",
+                        "id": "6320a49d1338013d4078214a",
+                        "minAmount": 1.001
+                      }
+                    ]
+                  },
+                  "quantity": 0.45
+                }
+              ],
+              "imageUrl": "ingredients/4Vwqtyzsovtt7Q.jpg.webp",
+              "name": "Tomates concassées",
+              "naturalUnit": {
+                "_id": "598c239e14246c127285c14a",
+                "id": "598c239e14246c127285c14a",
+                "updatedAt": "2025-03-26T09:57:46.671Z",
+                "createdAt": "2017-08-10T09:13:02.818Z",
+                "isNatural": true,
+                "name": "Kilogramme",
+                "__v": 17,
+                "measurementSystemCompatibility": {
+                  "metric": true,
+                  "imperial": false,
+                  "us": false
+                },
+                "abbreviations": [
+                  {
+                    "minAmount": 0,
+                    "maxAmount": 0.001,
+                    "digits": 0,
+                    "divisor": 1000000,
+                    "inverse": false,
+                    "_id": "5e60d30747401d500e61eb8d",
+                    "id": "5e60d30747401d500e61eb8d",
+                    "label": "mg"
+                  },
+                  {
+                    "minAmount": 0.001,
+                    "maxAmount": 1,
+                    "digits": 0,
+                    "divisor": 1000,
+                    "inverse": false,
+                    "_id": "5e5fc70840f533a26f0ad471",
+                    "id": "5e5fc70840f533a26f0ad471",
+                    "label": "g"
+                  },
+                  {
+                    "minAmount": 1,
+                    "digits": 1,
+                    "divisor": 1,
+                    "inverse": false,
+                    "_id": "5e5fd473a9d69f51009e1dea",
+                    "id": "5e5fd473a9d69f51009e1dea",
+                    "label": "kg"
+                  }
+                ],
+                "comments": "naturelle"
+              },
+              "quantityPerCover": 0.15
+            },
+            "unit": {
+              "_id": "598c239e14246c127285c14a",
+              "id": "598c239e14246c127285c14a"
+            },
+            "additionalMeasures": [],
+            "alternatives": []
+          },
+          {
+            "isOptional": false,
+            "ingredient": {
+              "_id": "598b5ebefd078b0011140a17",
+              "id": "598b5ebefd078b0011140a17",
+              "alternativeUnits": [
+                {
+                  "_id": "59aee281ea471e00112bed11",
+                  "id": "59aee281ea471e00112bed11",
+                  "unit": {
+                    "_id": "59ad288c7a6c8e0011347126",
+                    "id": "59ad288c7a6c8e0011347126",
+                    "updatedAt": "2022-03-29T14:33:01.966Z",
+                    "createdAt": "2017-09-04T10:18:52.341Z",
+                    "name": "Gousse",
+                    "__v": 5,
+                    "measurementSystemCompatibility": {
+                      "metric": true,
+                      "imperial": true,
+                      "us": true
+                    },
+                    "abbreviations": [
+                      {
+                        "label": "gou.",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "6243189d73b88a5edb5e0fc5",
+                        "id": "6243189d73b88a5edb5e0fc5",
+                        "minAmount": 0,
+                        "maxAmount": 1.001
+                      },
+                      {
+                        "label": "gou.",
+                        "digits": 1,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "6243189d73b88a5edb5e0fc6",
+                        "id": "6243189d73b88a5edb5e0fc6",
+                        "minAmount": 1.001
+                      }
+                    ]
+                  },
+                  "quantity": 0.1
+                },
+                {
+                  "_id": "63d3e47c85e6056cd5ed8fed",
+                  "id": "63d3e47c85e6056cd5ed8fed",
+                  "unit": {
+                    "_id": "5d8096b75c978d3f685f5e5e",
+                    "id": "5d8096b75c978d3f685f5e5e",
+                    "measurementSystemCompatibility": {
+                      "metric": false,
+                      "imperial": true,
+                      "us": true
+                    },
+                    "name": "Once",
+                    "isNatural": false,
+                    "createdAt": "2019-09-17T08:17:59.909Z",
+                    "updatedAt": "2020-03-05T10:14:37.145Z",
+                    "__v": 6,
+                    "abbreviations": [
+                      {
+                        "label": "oz",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "5e60d10d47401d500e61eb82",
+                        "id": "5e60d10d47401d500e61eb82",
+                        "minAmount": 0,
+                        "maxAmount": 1
+                      },
+                      {
+                        "label": "oz",
+                        "digits": 1,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "5e60d10d47401d500e61eb81",
+                        "id": "5e60d10d47401d500e61eb81",
+                        "minAmount": 1
+                      }
+                    ]
+                  },
+                  "quantity": 0.333
+                },
+                {
+                  "_id": "63ca7b7ae164f672ac7ca7fd",
+                  "id": "63ca7b7ae164f672ac7ca7fd",
+                  "unit": {
+                    "_id": "6273c529c156580fcf38247b",
+                    "id": "6273c529c156580fcf38247b",
+                    "__v": 1,
+                    "abbreviations": [
+                      {
+                        "label": "boule",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "6273c529c156580fcf38247c",
+                        "id": "6273c529c156580fcf38247c",
+                        "minAmount": 0,
+                        "maxAmount": 1.001
+                      },
+                      {
+                        "label": "boules",
+                        "digits": 1,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "6273c529c156580fcf38247d",
+                        "id": "6273c529c156580fcf38247d",
+                        "minAmount": 1.001
+                      }
+                    ],
+                    "createdAt": "2022-05-05T12:38:01.195Z",
+                    "measurementSystemCompatibility": {
+                      "metric": true,
+                      "imperial": true,
+                      "us": true
+                    },
+                    "name": "Boule",
+                    "updatedAt": "2023-02-10T10:13:17.922Z"
+                  },
+                  "quantity": 0.1
+                },
+                {
+                  "_id": "63cab82ae164f672ac7cb43d",
+                  "id": "63cab82ae164f672ac7cb43d",
+                  "unit": {
+                    "_id": "5d5d5629aa9d522a3f884ae3",
+                    "id": "5d5d5629aa9d522a3f884ae3",
+                    "measurementSystemCompatibility": {
+                      "metric": true,
+                      "imperial": false,
+                      "us": false
+                    },
+                    "name": "Kilogramme",
+                    "createdAt": "2019-08-21T14:33:13.749Z",
+                    "updatedAt": "2025-03-26T09:57:59.382Z",
+                    "__v": 3,
+                    "abbreviations": [
+                      {
+                        "minAmount": 0,
+                        "maxAmount": 0.001,
+                        "digits": 0,
+                        "divisor": 1000000,
+                        "inverse": false,
+                        "_id": "5e5fc72840f533a26f0ad476",
+                        "id": "5e5fc72840f533a26f0ad476",
+                        "label": "mg"
+                      },
+                      {
+                        "minAmount": 0.001,
+                        "maxAmount": 1,
+                        "digits": 0,
+                        "divisor": 1000,
+                        "inverse": false,
+                        "_id": "5e5fc72840f533a26f0ad475",
+                        "id": "5e5fc72840f533a26f0ad475",
+                        "label": "g"
+                      },
+                      {
+                        "minAmount": 1,
+                        "digits": 1,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "5e5fd479a9d69f51009e1dee",
+                        "id": "5e5fd479a9d69f51009e1dee",
+                        "label": "kg"
+                      }
+                    ],
+                    "comments": "alternative"
+                  },
+                  "quantity": 13
+                },
+                {
+                  "_id": "63d3e47c85e6056cd5ed8ffa",
+                  "id": "63d3e47c85e6056cd5ed8ffa",
+                  "unit": {
+                    "_id": "60784a80562bb1877f930f56",
+                    "id": "60784a80562bb1877f930f56",
+                    "__v": 3,
+                    "abbreviations": [
+                      {
+                        "label": " ",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "6229f8868531a979c77b2239",
+                        "id": "6229f8868531a979c77b2239",
+                        "minAmount": 0,
+                        "maxAmount": 1
+                      },
+                      {
+                        "label": " ",
+                        "digits": 1,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "6229f8868531a979c77b223a",
+                        "id": "6229f8868531a979c77b223a",
+                        "minAmount": 1
+                      }
+                    ],
+                    "comments": "US size",
+                    "createdAt": "2021-04-15T14:15:28.338Z",
+                    "isNatural": false,
+                    "measurementSystemCompatibility": {
+                      "metric": true,
+                      "imperial": true,
+                      "us": true
+                    },
+                    "name": "Pièce",
+                    "updatedAt": "2022-03-10T13:09:26.740Z"
+                  },
+                  "quantity": 1
+                },
+                {
+                  "_id": "63d3e47c85e6056cd5ed8ffe",
+                  "id": "63d3e47c85e6056cd5ed8ffe",
+                  "unit": {
+                    "_id": "5d809c8fb982cb6b3d7586c8",
+                    "id": "5d809c8fb982cb6b3d7586c8",
+                    "measurementSystemCompatibility": {
+                      "metric": false,
+                      "imperial": true,
+                      "us": true
+                    },
+                    "name": "Livre",
+                    "createdAt": "2019-09-17T08:42:55.648Z",
+                    "updatedAt": "2022-09-13T15:41:17.272Z",
+                    "__v": 6,
+                    "abbreviations": [
+                      {
+                        "label": "liv.",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "6320a4741338013d40782139",
+                        "id": "6320a4741338013d40782139",
+                        "minAmount": 0,
+                        "maxAmount": 1.001
+                      },
+                      {
+                        "label": "liv.",
+                        "digits": 1,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "6320a49d1338013d4078214a",
+                        "id": "6320a49d1338013d4078214a",
+                        "minAmount": 1.001
+                      }
+                    ]
+                  },
+                  "quantity": 5.3
+                }
+              ],
+              "imageUrl": "ingredients/b3FOqn5Ql1fjOQ.png.webp",
+              "name": "Ail",
+              "naturalUnit": {
+                "_id": "598c23d414246c127285c14b",
+                "id": "598c23d414246c127285c14b",
+                "updatedAt": "2025-03-26T09:59:21.516Z",
+                "createdAt": "2017-08-10T09:13:57.000Z",
+                "isNatural": true,
+                "name": "Pièce",
+                "__v": 11,
+                "measurementSystemCompatibility": {
+                  "metric": true,
+                  "imperial": true,
+                  "us": true
+                },
+                "abbreviations": [
+                  {
+                    "minAmount": 0,
+                    "maxAmount": 1,
+                    "digits": 0,
+                    "divisor": 1,
+                    "inverse": true,
+                    "_id": "6229f8718531a979c77b221f",
+                    "id": "6229f8718531a979c77b221f",
+                    "label": " "
+                  },
+                  {
+                    "minAmount": 1,
+                    "digits": 1,
+                    "divisor": 1,
+                    "inverse": false,
+                    "_id": "6229f8718531a979c77b2220",
+                    "id": "6229f8718531a979c77b2220",
+                    "label": " "
+                  }
+                ],
+                "comments": "taille FR naturelle"
+              },
+              "quantityPerCover": 0.25
+            },
+            "unit": {
+              "_id": "59ad288c7a6c8e0011347126",
+              "id": "59ad288c7a6c8e0011347126"
+            },
+            "additionalMeasures": [],
+            "alternatives": []
+          },
+          {
+            "isOptional": false,
+            "ingredient": {
+              "_id": "59aaeb63797a8c001117786f",
+              "id": "59aaeb63797a8c001117786f",
+              "alternativeUnits": [
+                {
+                  "unit": {
+                    "_id": "59aadbd4797a8c0011177854",
+                    "id": "59aadbd4797a8c0011177854",
+                    "updatedAt": "2025-03-26T09:59:37.116Z",
+                    "createdAt": "2017-09-02T16:27:00.318Z",
+                    "name": "Pièce",
+                    "__v": 8,
+                    "measurementSystemCompatibility": {
+                      "metric": true,
+                      "imperial": true,
+                      "us": true
+                    },
+                    "abbreviations": [
+                      {
+                        "minAmount": 0,
+                        "maxAmount": 1,
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "6229f87c8531a979c77b222c",
+                        "id": "6229f87c8531a979c77b222c",
+                        "label": " "
+                      },
+                      {
+                        "minAmount": 1,
+                        "digits": 1,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "63f4ca979b0e113c174f3f29",
+                        "id": "63f4ca979b0e113c174f3f29",
+                        "label": " "
+                      }
+                    ],
+                    "comments": "taille FR alternative"
+                  },
+                  "quantity": 0.15,
+                  "_id": "59b105d7aa9f3000121dd054",
+                  "id": "59b105d7aa9f3000121dd054"
+                },
+                {
+                  "unit": {
+                    "_id": "5d8096b75c978d3f685f5e5e",
+                    "id": "5d8096b75c978d3f685f5e5e",
+                    "measurementSystemCompatibility": {
+                      "metric": false,
+                      "imperial": true,
+                      "us": true
+                    },
+                    "name": "Once",
+                    "isNatural": false,
+                    "createdAt": "2019-09-17T08:17:59.909Z",
+                    "updatedAt": "2020-03-05T10:14:37.145Z",
+                    "__v": 6,
+                    "abbreviations": [
+                      {
+                        "label": "oz",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "5e60d10d47401d500e61eb82",
+                        "id": "5e60d10d47401d500e61eb82",
+                        "minAmount": 0,
+                        "maxAmount": 1
+                      },
+                      {
+                        "label": "oz",
+                        "digits": 1,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "5e60d10d47401d500e61eb81",
+                        "id": "5e60d10d47401d500e61eb81",
+                        "minAmount": 1
+                      }
+                    ]
+                  },
+                  "quantity": 0.028,
+                  "_id": "615709d917d8e10eba6fd02c",
+                  "id": "615709d917d8e10eba6fd02c"
+                },
+                {
+                  "unit": {
+                    "_id": "5d809c8fb982cb6b3d7586c8",
+                    "id": "5d809c8fb982cb6b3d7586c8",
+                    "measurementSystemCompatibility": {
+                      "metric": false,
+                      "imperial": true,
+                      "us": true
+                    },
+                    "name": "Livre",
+                    "createdAt": "2019-09-17T08:42:55.648Z",
+                    "updatedAt": "2022-09-13T15:41:17.272Z",
+                    "__v": 6,
+                    "abbreviations": [
+                      {
+                        "label": "liv.",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "6320a4741338013d40782139",
+                        "id": "6320a4741338013d40782139",
+                        "minAmount": 0,
+                        "maxAmount": 1.001
+                      },
+                      {
+                        "label": "liv.",
+                        "digits": 1,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "6320a49d1338013d4078214a",
+                        "id": "6320a49d1338013d4078214a",
+                        "minAmount": 1.001
+                      }
+                    ]
+                  },
+                  "quantity": 0.454,
+                  "_id": "615709d917d8e10eba6fd030",
+                  "id": "615709d917d8e10eba6fd030"
+                },
+                {
+                  "unit": {
+                    "_id": "60784a80562bb1877f930f56",
+                    "id": "60784a80562bb1877f930f56",
+                    "__v": 3,
+                    "abbreviations": [
+                      {
+                        "label": " ",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "6229f8868531a979c77b2239",
+                        "id": "6229f8868531a979c77b2239",
+                        "minAmount": 0,
+                        "maxAmount": 1
+                      },
+                      {
+                        "label": " ",
+                        "digits": 1,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "6229f8868531a979c77b223a",
+                        "id": "6229f8868531a979c77b223a",
+                        "minAmount": 1
+                      }
+                    ],
+                    "comments": "US size",
+                    "createdAt": "2021-04-15T14:15:28.338Z",
+                    "isNatural": false,
+                    "measurementSystemCompatibility": {
+                      "metric": true,
+                      "imperial": true,
+                      "us": true
+                    },
+                    "name": "Pièce",
+                    "updatedAt": "2022-03-10T13:09:26.740Z"
+                  },
+                  "quantity": 0.15,
+                  "_id": "615709d917d8e10eba6fd033",
+                  "id": "615709d917d8e10eba6fd033"
+                }
+              ],
+              "imageUrl": "ingredients/uDefZpqTfk15Dg.jpg.webp",
+              "name": "Oignon jaune",
+              "naturalUnit": {
+                "_id": "598c239e14246c127285c14a",
+                "id": "598c239e14246c127285c14a",
+                "updatedAt": "2025-03-26T09:57:46.671Z",
+                "createdAt": "2017-08-10T09:13:02.818Z",
+                "isNatural": true,
+                "name": "Kilogramme",
+                "__v": 17,
+                "measurementSystemCompatibility": {
+                  "metric": true,
+                  "imperial": false,
+                  "us": false
+                },
+                "abbreviations": [
+                  {
+                    "minAmount": 0,
+                    "maxAmount": 0.001,
+                    "digits": 0,
+                    "divisor": 1000000,
+                    "inverse": false,
+                    "_id": "5e60d30747401d500e61eb8d",
+                    "id": "5e60d30747401d500e61eb8d",
+                    "label": "mg"
+                  },
+                  {
+                    "minAmount": 0.001,
+                    "maxAmount": 1,
+                    "digits": 0,
+                    "divisor": 1000,
+                    "inverse": false,
+                    "_id": "5e5fc70840f533a26f0ad471",
+                    "id": "5e5fc70840f533a26f0ad471",
+                    "label": "g"
+                  },
+                  {
+                    "minAmount": 1,
+                    "digits": 1,
+                    "divisor": 1,
+                    "inverse": false,
+                    "_id": "5e5fd473a9d69f51009e1dea",
+                    "id": "5e5fd473a9d69f51009e1dea",
+                    "label": "kg"
+                  }
+                ],
+                "comments": "naturelle"
+              },
+              "quantityPerCover": 0.5
+            },
+            "unit": {
+              "_id": "59aadbd4797a8c0011177854",
+              "id": "59aadbd4797a8c0011177854"
+            },
+            "additionalMeasures": [],
+            "alternatives": []
+          },
+          {
+            "isOptional": false,
+            "ingredient": {
+              "_id": "5b52020119fa9400140a41df",
+              "id": "5b52020119fa9400140a41df",
+              "alternativeUnits": [
+                {
+                  "_id": "5b52020119fa9400140a41e0",
+                  "id": "5b52020119fa9400140a41e0",
+                  "unit": {
+                    "_id": "59aadbd4797a8c0011177854",
+                    "id": "59aadbd4797a8c0011177854",
+                    "updatedAt": "2025-03-26T09:59:37.116Z",
+                    "createdAt": "2017-09-02T16:27:00.318Z",
+                    "name": "Pièce",
+                    "__v": 8,
+                    "measurementSystemCompatibility": {
+                      "metric": true,
+                      "imperial": true,
+                      "us": true
+                    },
+                    "abbreviations": [
+                      {
+                        "minAmount": 0,
+                        "maxAmount": 1,
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "6229f87c8531a979c77b222c",
+                        "id": "6229f87c8531a979c77b222c",
+                        "label": " "
+                      },
+                      {
+                        "minAmount": 1,
+                        "digits": 1,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "63f4ca979b0e113c174f3f29",
+                        "id": "63f4ca979b0e113c174f3f29",
+                        "label": " "
+                      }
+                    ],
+                    "comments": "taille FR alternative"
+                  },
+                  "quantity": 0.2
+                },
+                {
+                  "_id": "60ae5fced97f350ec520ff36",
+                  "id": "60ae5fced97f350ec520ff36",
+                  "unit": {
+                    "_id": "5d8096b75c978d3f685f5e5e",
+                    "id": "5d8096b75c978d3f685f5e5e",
+                    "measurementSystemCompatibility": {
+                      "metric": false,
+                      "imperial": true,
+                      "us": true
+                    },
+                    "name": "Once",
+                    "isNatural": false,
+                    "createdAt": "2019-09-17T08:17:59.909Z",
+                    "updatedAt": "2020-03-05T10:14:37.145Z",
+                    "__v": 6,
+                    "abbreviations": [
+                      {
+                        "label": "oz",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "5e60d10d47401d500e61eb82",
+                        "id": "5e60d10d47401d500e61eb82",
+                        "minAmount": 0,
+                        "maxAmount": 1
+                      },
+                      {
+                        "label": "oz",
+                        "digits": 1,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "5e60d10d47401d500e61eb81",
+                        "id": "5e60d10d47401d500e61eb81",
+                        "minAmount": 1
+                      }
+                    ]
+                  },
+                  "quantity": 0.028
+                },
+                {
+                  "_id": "60ae5fced97f350ec520ff3a",
+                  "id": "60ae5fced97f350ec520ff3a",
+                  "unit": {
+                    "_id": "5d809c8fb982cb6b3d7586c8",
+                    "id": "5d809c8fb982cb6b3d7586c8",
+                    "measurementSystemCompatibility": {
+                      "metric": false,
+                      "imperial": true,
+                      "us": true
+                    },
+                    "name": "Livre",
+                    "createdAt": "2019-09-17T08:42:55.648Z",
+                    "updatedAt": "2022-09-13T15:41:17.272Z",
+                    "__v": 6,
+                    "abbreviations": [
+                      {
+                        "label": "liv.",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "6320a4741338013d40782139",
+                        "id": "6320a4741338013d40782139",
+                        "minAmount": 0,
+                        "maxAmount": 1.001
+                      },
+                      {
+                        "label": "liv.",
+                        "digits": 1,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "6320a49d1338013d4078214a",
+                        "id": "6320a49d1338013d4078214a",
+                        "minAmount": 1.001
+                      }
+                    ]
+                  },
+                  "quantity": 0.454
+                },
+                {
+                  "_id": "60ae5fced97f350ec520ff3d",
+                  "id": "60ae5fced97f350ec520ff3d",
+                  "unit": {
+                    "_id": "599215cce9f1de001116bbb5",
+                    "id": "599215cce9f1de001116bbb5",
+                    "updatedAt": "2021-11-16T11:13:33.964Z",
+                    "createdAt": "2017-08-14T21:27:40.521Z",
+                    "name": "Cuillère à café",
+                    "__v": 2,
+                    "measurementSystemCompatibility": {
+                      "metric": true,
+                      "imperial": true,
+                      "us": true
+                    },
+                    "abbreviations": [
+                      {
+                        "label": "càc",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "5e5fc39240f533a26f0ad3eb",
+                        "id": "5e5fc39240f533a26f0ad3eb",
+                        "minAmount": 0,
+                        "maxAmount": 1
+                      },
+                      {
+                        "label": "càc",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "5e5fc39240f533a26f0ad3ea",
+                        "id": "5e5fc39240f533a26f0ad3ea",
+                        "minAmount": 1
+                      }
+                    ]
+                  },
+                  "quantity": 0.005
+                },
+                {
+                  "_id": "60ae5fced97f350ec520ff41",
+                  "id": "60ae5fced97f350ec520ff41",
+                  "unit": {
+                    "_id": "599215dde9f1de001116bbb6",
+                    "id": "599215dde9f1de001116bbb6",
+                    "updatedAt": "2021-11-22T16:18:56.411Z",
+                    "createdAt": "2017-08-14T21:27:57.899Z",
+                    "name": "Cuillère à soupe",
+                    "__v": 4,
+                    "measurementSystemCompatibility": {
+                      "metric": true,
+                      "imperial": true,
+                      "us": true
+                    },
+                    "abbreviations": [
+                      {
+                        "label": "càs",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "619bc2f0934d1027ae7f53fb",
+                        "id": "619bc2f0934d1027ae7f53fb",
+                        "minAmount": 0,
+                        "maxAmount": 1
+                      },
+                      {
+                        "label": "càs",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "619bc2f0934d1027ae7f53fc",
+                        "id": "619bc2f0934d1027ae7f53fc",
+                        "minAmount": 1
+                      }
+                    ]
+                  },
+                  "quantity": 0.014
+                },
+                {
+                  "_id": "60ae5fced97f350ec520ff45",
+                  "id": "60ae5fced97f350ec520ff45",
+                  "unit": {
+                    "_id": "5cb881fc5acada2b81b7398a",
+                    "id": "5cb881fc5acada2b81b7398a",
+                    "name": "Cup",
+                    "createdAt": "2019-04-18T13:56:12.571Z",
+                    "updatedAt": "2022-03-29T14:03:55.297Z",
+                    "__v": 24,
+                    "abbreviations": [
+                      {
+                        "label": "cup",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "624311cb73b88a5edb5dfa1d",
+                        "id": "624311cb73b88a5edb5dfa1d",
+                        "minAmount": 0,
+                        "maxAmount": 1.001
+                      },
+                      {
+                        "label": "cups",
+                        "digits": 1,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "624311cb73b88a5edb5dfa1e",
+                        "id": "624311cb73b88a5edb5dfa1e",
+                        "minAmount": 1.001
+                      }
+                    ],
+                    "measurementSystemCompatibility": {
+                      "imperial": false,
+                      "metric": false,
+                      "us": true
+                    }
+                  },
+                  "quantity": 0.225
+                },
+                {
+                  "_id": "61a950816a167b0f040c0682",
+                  "id": "61a950816a167b0f040c0682",
+                  "unit": {
+                    "_id": "60784a80562bb1877f930f56",
+                    "id": "60784a80562bb1877f930f56",
+                    "__v": 3,
+                    "abbreviations": [
+                      {
+                        "label": " ",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "6229f8868531a979c77b2239",
+                        "id": "6229f8868531a979c77b2239",
+                        "minAmount": 0,
+                        "maxAmount": 1
+                      },
+                      {
+                        "label": " ",
+                        "digits": 1,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "6229f8868531a979c77b223a",
+                        "id": "6229f8868531a979c77b223a",
+                        "minAmount": 1
+                      }
+                    ],
+                    "comments": "US size",
+                    "createdAt": "2021-04-15T14:15:28.338Z",
+                    "isNatural": false,
+                    "measurementSystemCompatibility": {
+                      "metric": true,
+                      "imperial": true,
+                      "us": true
+                    },
+                    "name": "Pièce",
+                    "updatedAt": "2022-03-10T13:09:26.740Z"
+                  },
+                  "quantity": 0.2
+                }
+              ],
+              "imageUrl": "ingredients/M8UM0CsJkKH7ig.jpg.webp",
+              "name": "Feta",
+              "naturalUnit": {
+                "_id": "598c239e14246c127285c14a",
+                "id": "598c239e14246c127285c14a",
+                "updatedAt": "2025-03-26T09:57:46.671Z",
+                "createdAt": "2017-08-10T09:13:02.818Z",
+                "isNatural": true,
+                "name": "Kilogramme",
+                "__v": 17,
+                "measurementSystemCompatibility": {
+                  "metric": true,
+                  "imperial": false,
+                  "us": false
+                },
+                "abbreviations": [
+                  {
+                    "minAmount": 0,
+                    "maxAmount": 0.001,
+                    "digits": 0,
+                    "divisor": 1000000,
+                    "inverse": false,
+                    "_id": "5e60d30747401d500e61eb8d",
+                    "id": "5e60d30747401d500e61eb8d",
+                    "label": "mg"
+                  },
+                  {
+                    "minAmount": 0.001,
+                    "maxAmount": 1,
+                    "digits": 0,
+                    "divisor": 1000,
+                    "inverse": false,
+                    "_id": "5e5fc70840f533a26f0ad471",
+                    "id": "5e5fc70840f533a26f0ad471",
+                    "label": "g"
+                  },
+                  {
+                    "minAmount": 1,
+                    "digits": 1,
+                    "divisor": 1,
+                    "inverse": false,
+                    "_id": "5e5fd473a9d69f51009e1dea",
+                    "id": "5e5fd473a9d69f51009e1dea",
+                    "label": "kg"
+                  }
+                ],
+                "comments": "naturelle"
+              },
+              "quantityPerCover": 0.03
+            },
+            "unit": {
+              "_id": "598c239e14246c127285c14a",
+              "id": "598c239e14246c127285c14a"
+            },
+            "additionalMeasures": [],
+            "alternatives": []
+          },
+          {
+            "isOptional": false,
+            "ingredient": {
+              "_id": "5bd995c70d276400042146c2",
+              "id": "5bd995c70d276400042146c2",
+              "alternativeUnits": [
+                {
+                  "unit": {
+                    "_id": "59aadbd4797a8c0011177854",
+                    "id": "59aadbd4797a8c0011177854",
+                    "updatedAt": "2025-03-26T09:59:37.116Z",
+                    "createdAt": "2017-09-02T16:27:00.318Z",
+                    "name": "Pièce",
+                    "__v": 8,
+                    "measurementSystemCompatibility": {
+                      "metric": true,
+                      "imperial": true,
+                      "us": true
+                    },
+                    "abbreviations": [
+                      {
+                        "minAmount": 0,
+                        "maxAmount": 1,
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "6229f87c8531a979c77b222c",
+                        "id": "6229f87c8531a979c77b222c",
+                        "label": " "
+                      },
+                      {
+                        "minAmount": 1,
+                        "digits": 1,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "63f4ca979b0e113c174f3f29",
+                        "id": "63f4ca979b0e113c174f3f29",
+                        "label": " "
+                      }
+                    ],
+                    "comments": "taille FR alternative"
+                  },
+                  "quantity": 0.01,
+                  "_id": "5bd996ad81a17d0004c84631",
+                  "id": "5bd996ad81a17d0004c84631"
+                },
+                {
+                  "unit": {
+                    "_id": "5d8096b75c978d3f685f5e5e",
+                    "id": "5d8096b75c978d3f685f5e5e",
+                    "measurementSystemCompatibility": {
+                      "metric": false,
+                      "imperial": true,
+                      "us": true
+                    },
+                    "name": "Once",
+                    "isNatural": false,
+                    "createdAt": "2019-09-17T08:17:59.909Z",
+                    "updatedAt": "2020-03-05T10:14:37.145Z",
+                    "__v": 6,
+                    "abbreviations": [
+                      {
+                        "label": "oz",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "5e60d10d47401d500e61eb82",
+                        "id": "5e60d10d47401d500e61eb82",
+                        "minAmount": 0,
+                        "maxAmount": 1
+                      },
+                      {
+                        "label": "oz",
+                        "digits": 1,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "5e60d10d47401d500e61eb81",
+                        "id": "5e60d10d47401d500e61eb81",
+                        "minAmount": 1
+                      }
+                    ]
+                  },
+                  "quantity": 0.028,
+                  "_id": "616464b0040e8d0ec53461f8",
+                  "id": "616464b0040e8d0ec53461f8"
+                },
+                {
+                  "unit": {
+                    "_id": "5d809c8fb982cb6b3d7586c8",
+                    "id": "5d809c8fb982cb6b3d7586c8",
+                    "measurementSystemCompatibility": {
+                      "metric": false,
+                      "imperial": true,
+                      "us": true
+                    },
+                    "name": "Livre",
+                    "createdAt": "2019-09-17T08:42:55.648Z",
+                    "updatedAt": "2022-09-13T15:41:17.272Z",
+                    "__v": 6,
+                    "abbreviations": [
+                      {
+                        "label": "liv.",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "6320a4741338013d40782139",
+                        "id": "6320a4741338013d40782139",
+                        "minAmount": 0,
+                        "maxAmount": 1.001
+                      },
+                      {
+                        "label": "liv.",
+                        "digits": 1,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "6320a49d1338013d4078214a",
+                        "id": "6320a49d1338013d4078214a",
+                        "minAmount": 1.001
+                      }
+                    ]
+                  },
+                  "quantity": 0.454,
+                  "_id": "616464b0040e8d0ec53461fc",
+                  "id": "616464b0040e8d0ec53461fc"
+                },
+                {
+                  "unit": {
+                    "_id": "60784a80562bb1877f930f56",
+                    "id": "60784a80562bb1877f930f56",
+                    "__v": 3,
+                    "abbreviations": [
+                      {
+                        "label": " ",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "6229f8868531a979c77b2239",
+                        "id": "6229f8868531a979c77b2239",
+                        "minAmount": 0,
+                        "maxAmount": 1
+                      },
+                      {
+                        "label": " ",
+                        "digits": 1,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "6229f8868531a979c77b223a",
+                        "id": "6229f8868531a979c77b223a",
+                        "minAmount": 1
+                      }
+                    ],
+                    "comments": "US size",
+                    "createdAt": "2021-04-15T14:15:28.338Z",
+                    "isNatural": false,
+                    "measurementSystemCompatibility": {
+                      "metric": true,
+                      "imperial": true,
+                      "us": true
+                    },
+                    "name": "Pièce",
+                    "updatedAt": "2022-03-10T13:09:26.740Z"
+                  },
+                  "quantity": 0.01,
+                  "_id": "61baf6a7bfd5043aef109225",
+                  "id": "61baf6a7bfd5043aef109225"
+                },
+                {
+                  "unit": {
+                    "_id": "60d2ef1446fd7c0eef137afd",
+                    "id": "60d2ef1446fd7c0eef137afd",
+                    "__v": 2,
+                    "abbreviations": [
+                      {
+                        "minAmount": 0,
+                        "maxAmount": 1,
+                        "digits": 0,
+                        "divisor": 1000,
+                        "inverse": false,
+                        "_id": "65a80bc2221c78000f394398",
+                        "id": "65a80bc2221c78000f394398",
+                        "label": "ml"
+                      },
+                      {
+                        "minAmount": 1,
+                        "digits": 1,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "60d2ef1446fd7c0eef137b00",
+                        "id": "60d2ef1446fd7c0eef137b00",
+                        "label": "L"
+                      }
+                    ],
+                    "createdAt": "2021-06-23T08:21:40.696Z",
+                    "measurementSystemCompatibility": {
+                      "metric": true,
+                      "imperial": false,
+                      "us": false
+                    },
+                    "name": "Litre",
+                    "updatedAt": "2025-03-26T09:59:01.385Z",
+                    "comments": "alternative"
+                  },
+                  "quantity": 0.02,
+                  "_id": "63736c3f31c38d395649e787",
+                  "id": "63736c3f31c38d395649e787"
+                }
+              ],
+              "imageUrl": "ingredients/HTSOH60mYB28jA.png.webp",
+              "name": "Bouillon de légumes (cube)",
+              "naturalUnit": {
+                "_id": "598c239e14246c127285c14a",
+                "id": "598c239e14246c127285c14a",
+                "updatedAt": "2025-03-26T09:57:46.671Z",
+                "createdAt": "2017-08-10T09:13:02.818Z",
+                "isNatural": true,
+                "name": "Kilogramme",
+                "__v": 17,
+                "measurementSystemCompatibility": {
+                  "metric": true,
+                  "imperial": false,
+                  "us": false
+                },
+                "abbreviations": [
+                  {
+                    "minAmount": 0,
+                    "maxAmount": 0.001,
+                    "digits": 0,
+                    "divisor": 1000000,
+                    "inverse": false,
+                    "_id": "5e60d30747401d500e61eb8d",
+                    "id": "5e60d30747401d500e61eb8d",
+                    "label": "mg"
+                  },
+                  {
+                    "minAmount": 0.001,
+                    "maxAmount": 1,
+                    "digits": 0,
+                    "divisor": 1000,
+                    "inverse": false,
+                    "_id": "5e5fc70840f533a26f0ad471",
+                    "id": "5e5fc70840f533a26f0ad471",
+                    "label": "g"
+                  },
+                  {
+                    "minAmount": 1,
+                    "digits": 1,
+                    "divisor": 1,
+                    "inverse": false,
+                    "_id": "5e5fd473a9d69f51009e1dea",
+                    "id": "5e5fd473a9d69f51009e1dea",
+                    "label": "kg"
+                  }
+                ],
+                "comments": "naturelle"
+              },
+              "quantityPerCover": 0.25
+            },
+            "unit": {
+              "_id": "59aadbd4797a8c0011177854",
+              "id": "59aadbd4797a8c0011177854"
+            },
+            "additionalMeasures": [],
+            "alternatives": []
+          }
+        ],
+        "imageUrl": "recipes/BuB7IsZvEePZRg.png",
+        "isAvailable": true,
+        "isTasteCompatible": true,
+        "unavailableIngredientsIds": [],
+        "isRecipeAuthor": false
+      },
+      {
+        "source": "jow",
+        "_id": "6aba78209b85e028238f5e88",
+        "id": "6aba78209b85e028238f5e88",
+        "author": {
+          "id": "63e3ce2eb18da063dc42ff56",
+          "name": "Domitille",
+          "imageUrl": "authors/gJ0g4AOVlRB6Zw.jpg.webp",
+          "_id": "63e3ce2eb18da063dc42ff56"
+        },
+        "backgroundPattern": {
+          "color": "#ffc847",
+          "imageUrl": "patterns/yolk-05-202309.png"
+        },
+        "composition": "Préparation pour flan vanille, chocolat noir, pâte feuilletée, lait, vanille, pralin",
+        "cookingTime": 40,
+        "createdAt": "2026-10-13T22:00:00.000Z",
+        "description": "C'est le moment de se faire plaisir !",
+        "eatingHabitsCompatibility": {
+          "porkless": true,
+          "vegetarian": true,
+          "vegan": false,
+          "glutenFree": false,
+          "dairyFree": false,
+          "pescatarian": true
+        },
+        "likes": 684,
+        "negativeFeedbacks": 0,
+        "notTrivialRequiredToolsIds": [
+          "59ccb6a4bb08340012ca6b9a",
+          "5a85c3bd7e086300146d8761"
+        ],
+        "positiveFeedbacks": 0,
+        "preparationTime": 5,
+        "pricePerPortion": 117,
+        "restingTime": 120,
+        "roundedCoversCount": 6,
+        "tags": [
+          {
+            "_id": "63933919552b757616f4a268",
+            "id": "63933919552b757616f4a268",
+            "__v": 0,
+            "createdAt": "2022-12-09T13: 33: 13.053Z",
+            "name": "SPONSO",
+            "updatedAt": "2022-12-09T13: 33: 13.053Z"
+          }
+        ],
+        "tagsEdito": [],
+        "title": "Flan marbré vanille & chocolat",
+        "aggregateRating": -1,
+        "totalFeedbacks": 4,
+        "labels": [],
+        "origins": [],
+        "categories": [],
+        "badges": [
+          {
+            "type": "duration",
+            "preparationTime": 5,
+            "cookingTime": 40,
+            "preparationExtraTimePerCover": 1
+          }
+        ],
+        "indicatorBadges": [
+          {
+            "type": "duration",
+            "preparationTime": 5,
+            "cookingTime": 40,
+            "preparationExtraTimePerCover": 1
+          }
+        ],
+        "providers": [],
+        "availableLocales": [
+          "fr"
+        ],
+        "difficulty": 2,
+        "editorialPictureUrl": "recipes/z1CJuUuKVWEegw.jpg",
+        "imageWithBackgroundPatternUrl": "patterns/yolk-05-202309.png_merge_recipes/zF1QjVj1UaEM3Q.png.jpg",
+        "isVisible": true,
+        "minimumCoversRequired": 6,
+        "origin": {
+          "_id": "59808e6aaa829f00114a0f11",
+          "id": "59808e6aaa829f00114a0f11",
+          "updatedAt": "2022-06-01T18: 34: 33.338Z",
+          "createdAt": "2017-08-01T14: 21: 30.055Z",
+          "name": "Française",
+          "__v": 0,
+          "keywords": ""
+        },
+        "preparationExtraTimePerCover": 1,
+        "requiredTools": [
+          {
+            "_id": "59ccb6a4bb08340012ca6b9a",
+            "id": "59ccb6a4bb08340012ca6b9a",
+            "updatedAt": "2024-10-28T11: 06: 59.337Z",
+            "createdAt": "2017-09-28T08: 45: 24.402Z",
+            "imageUrl": "tools/PMq1FjiP805SNQ.png.webp",
+            "name": "Four",
+            "isNotTrivial": true,
+            "__v": 6,
+            "childrenTools": [],
+            "availabilityZones": [
+              "FR",
+              "US"
+            ],
+            "isDefaultChecked": false
+          },
+          {
+            "_id": "5a85c3bd7e086300146d8761",
+            "id": "5a85c3bd7e086300146d8761",
+            "updatedAt": "2024-10-28T11: 09: 56.435Z",
+            "createdAt": "2018-02-15T17: 30: 37.172Z",
+            "imageUrl": "tools/KwLdRqoUnt9ipw.png.webp",
+            "name": "Plaques de cuisson",
+            "isDefaultChecked": true,
+            "childrenTools": [],
+            "isNotTrivial": true,
+            "__v": 1,
+            "availabilityZones": [
+              "FR",
+              "US"
+            ]
+          },
+          {
+            "_id": "598b3ffcfd078b00111409f9",
+            "id": "598b3ffcfd078b00111409f9",
+            "updatedAt": "2021-11-22T14: 33: 45.727Z",
+            "createdAt": "2017-08-09T17: 01: 48.901Z",
+            "imageUrl": "tools/w4oVUkDcBN.png",
+            "name": "Casserole",
+            "__v": 2,
+            "childrenTools": [],
+            "isNotTrivial": false,
+            "availabilityZones": [
+              "FR",
+              "US"
+            ],
+            "isDefaultChecked": false
+          }
+        ],
+        "seasons": [],
+        "seasonality": {
+          "jan": true,
+          "feb": true,
+          "mar": true,
+          "apr": true,
+          "may": true,
+          "jun": true,
+          "jul": true,
+          "aug": true,
+          "sep": true,
+          "oct": true,
+          "nov": true,
+          "dec": true
+        },
+        "slug": "flan-marbre-vanille-et-chocolat",
+        "type": "recipe",
+        "unitName": {
+          "singular": "flan",
+          "plural": "flans"
+        },
+        "videoUrl": "recipes/03ML9EMIbYLWeQ_transcoded.mp4",
+        "videoDuration": 55.722333,
+        "constituents": [
+          {
+            "isOptional": false,
+            "ingredient": {
+              "_id": "6ab545cc35e74a58075bcf41",
+              "id": "6ab545cc35e74a58075bcf41",
+              "alternativeUnits": [],
+              "imageUrl": "ingredients/FSIX9aDOn4bdeA.jpg.webp",
+              "name": "Préparation pour flan vanille",
+              "naturalUnit": {
+                "_id": "598c239e14246c127285c14a",
+                "id": "598c239e14246c127285c14a",
+                "updatedAt": "2025-03-26T09: 57: 46.671Z",
+                "createdAt": "2017-08-10T09: 13: 02.818Z",
+                "isNatural": true,
+                "name": "Kilogramme",
+                "__v": 17,
+                "measurementSystemCompatibility": {
+                  "metric": true,
+                  "imperial": false,
+                  "us": false
+                },
+                "abbreviations": [
+                  {
+                    "minAmount": 0,
+                    "maxAmount": 0.001,
+                    "digits": 0,
+                    "divisor": 1000000,
+                    "inverse": false,
+                    "_id": "5e60d30747401d500e61eb8d",
+                    "id": "5e60d30747401d500e61eb8d",
+                    "label": "mg"
+                  },
+                  {
+                    "minAmount": 0.001,
+                    "maxAmount": 1,
+                    "digits": 0,
+                    "divisor": 1000,
+                    "inverse": false,
+                    "_id": "5e5fc70840f533a26f0ad471",
+                    "id": "5e5fc70840f533a26f0ad471",
+                    "label": "g"
+                  },
+                  {
+                    "minAmount": 1,
+                    "digits": 1,
+                    "divisor": 1,
+                    "inverse": false,
+                    "_id": "5e5fd473a9d69f51009e1dea",
+                    "id": "5e5fd473a9d69f51009e1dea",
+                    "label": "kg"
+                  }
+                ],
+                "comments": "naturelle"
+              },
+              "quantityPerCover": 0.05
+            },
+            "unit": {
+              "_id": "598c239e14246c127285c14a",
+              "id": "598c239e14246c127285c14a"
+            },
+            "additionalMeasures": [],
+            "alternatives": []
+          },
+          {
+            "isOptional": false,
+            "ingredient": {
+              "_id": "633440a5b60fcd33bf085760",
+              "id": "633440a5b60fcd33bf085760",
+              "alternativeUnits": [],
+              "imageUrl": "ingredients/u2BPSL9jlGhg7A.jpg.webp",
+              "name": "Chocolat noir",
+              "naturalUnit": {
+                "_id": "598c239e14246c127285c14a",
+                "id": "598c239e14246c127285c14a",
+                "updatedAt": "2025-03-26T09: 57: 46.671Z",
+                "createdAt": "2017-08-10T09: 13: 02.818Z",
+                "isNatural": true,
+                "name": "Kilogramme",
+                "__v": 17,
+                "measurementSystemCompatibility": {
+                  "metric": true,
+                  "imperial": false,
+                  "us": false
+                },
+                "abbreviations": [
+                  {
+                    "minAmount": 0,
+                    "maxAmount": 0.001,
+                    "digits": 0,
+                    "divisor": 1000000,
+                    "inverse": false,
+                    "_id": "5e60d30747401d500e61eb8d",
+                    "id": "5e60d30747401d500e61eb8d",
+                    "label": "mg"
+                  },
+                  {
+                    "minAmount": 0.001,
+                    "maxAmount": 1,
+                    "digits": 0,
+                    "divisor": 1000,
+                    "inverse": false,
+                    "_id": "5e5fc70840f533a26f0ad471",
+                    "id": "5e5fc70840f533a26f0ad471",
+                    "label": "g"
+                  },
+                  {
+                    "minAmount": 1,
+                    "digits": 1,
+                    "divisor": 1,
+                    "inverse": false,
+                    "_id": "5e5fd473a9d69f51009e1dea",
+                    "id": "5e5fd473a9d69f51009e1dea",
+                    "label": "kg"
+                  }
+                ],
+                "comments": "naturelle"
+              },
+              "quantityPerCover": 0.01166
+            },
+            "unit": {
+              "_id": "598c239e14246c127285c14a",
+              "id": "598c239e14246c127285c14a"
+            },
+            "additionalMeasures": [],
+            "alternatives": []
+          },
+          {
+            "isOptional": false,
+            "ingredient": {
+              "_id": "59b82fe88b98250012a9b5aa",
+              "id": "59b82fe88b98250012a9b5aa",
+              "alternativeUnits": [
+                {
+                  "_id": "615ec49824261e0ebef748f4",
+                  "id": "615ec49824261e0ebef748f4",
+                  "unit": {
+                    "_id": "60784a80562bb1877f930f56",
+                    "id": "60784a80562bb1877f930f56",
+                    "__v": 3,
+                    "abbreviations": [
+                      {
+                        "label": "",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "6229f8868531a979c77b2239",
+                        "id": "6229f8868531a979c77b2239",
+                        "minAmount": 0,
+                        "maxAmount": 1
+                      },
+                      {
+                        "label": "",
+                        "digits": 1,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "6229f8868531a979c77b223a",
+                        "id": "6229f8868531a979c77b223a",
+                        "minAmount": 1
+                      }
+                    ],
+                    "comments": "US size",
+                    "createdAt": "2021-04-15T14: 15: 28.338Z",
+                    "isNatural": false,
+                    "measurementSystemCompatibility": {
+                      "metric": true,
+                      "imperial": true,
+                      "us": true
+                    },
+                    "name": "Pièce",
+                    "updatedAt": "2022-03-10T13: 09: 26.740Z"
+                  },
+                  "quantity": 1
+                },
+                {
+                  "_id": "65fb15aae23d45000e5140f7",
+                  "id": "65fb15aae23d45000e5140f7",
+                  "unit": {
+                    "_id": "5d5d5629aa9d522a3f884ae3",
+                    "id": "5d5d5629aa9d522a3f884ae3",
+                    "measurementSystemCompatibility": {
+                      "metric": true,
+                      "imperial": false,
+                      "us": false
+                    },
+                    "name": "Kilogramme",
+                    "createdAt": "2019-08-21T14: 33: 13.749Z",
+                    "updatedAt": "2025-03-26T09: 57: 59.382Z",
+                    "__v": 3,
+                    "abbreviations": [
+                      {
+                        "minAmount": 0,
+                        "maxAmount": 0.001,
+                        "digits": 0,
+                        "divisor": 1000000,
+                        "inverse": false,
+                        "_id": "5e5fc72840f533a26f0ad476",
+                        "id": "5e5fc72840f533a26f0ad476",
+                        "label": "mg"
+                      },
+                      {
+                        "minAmount": 0.001,
+                        "maxAmount": 1,
+                        "digits": 0,
+                        "divisor": 1000,
+                        "inverse": false,
+                        "_id": "5e5fc72840f533a26f0ad475",
+                        "id": "5e5fc72840f533a26f0ad475",
+                        "label": "g"
+                      },
+                      {
+                        "minAmount": 1,
+                        "digits": 1,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "5e5fd479a9d69f51009e1dee",
+                        "id": "5e5fd479a9d69f51009e1dee",
+                        "label": "kg"
+                      }
+                    ],
+                    "comments": "alternative"
+                  },
+                  "quantity": 4.3
+                },
+                {
+                  "_id": "66045ff74bdd8d000ffe6a95",
+                  "id": "66045ff74bdd8d000ffe6a95",
+                  "unit": {
+                    "_id": "5d8096b75c978d3f685f5e5e",
+                    "id": "5d8096b75c978d3f685f5e5e",
+                    "measurementSystemCompatibility": {
+                      "metric": false,
+                      "imperial": true,
+                      "us": true
+                    },
+                    "name": "Once",
+                    "isNatural": false,
+                    "createdAt": "2019-09-17T08: 17: 59.909Z",
+                    "updatedAt": "2020-03-05T10: 14: 37.145Z",
+                    "__v": 6,
+                    "abbreviations": [
+                      {
+                        "label": "oz",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "5e60d10d47401d500e61eb82",
+                        "id": "5e60d10d47401d500e61eb82",
+                        "minAmount": 0,
+                        "maxAmount": 1
+                      },
+                      {
+                        "label": "oz",
+                        "digits": 1,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "5e60d10d47401d500e61eb81",
+                        "id": "5e60d10d47401d500e61eb81",
+                        "minAmount": 1
+                      }
+                    ]
+                  },
+                  "quantity": 0.121903
+                }
+              ],
+              "imageUrl": "ingredients/lZcR19eKL0U0yA.jpg.webp",
+              "name": "Pâte feuilletée",
+              "naturalUnit": {
+                "_id": "598c23d414246c127285c14b",
+                "id": "598c23d414246c127285c14b",
+                "updatedAt": "2025-03-26T09: 59: 21.516Z",
+                "createdAt": "2017-08-10T09: 13: 57.000Z",
+                "isNatural": true,
+                "name": "Pièce",
+                "__v": 11,
+                "measurementSystemCompatibility": {
+                  "metric": true,
+                  "imperial": true,
+                  "us": true
+                },
+                "abbreviations": [
+                  {
+                    "minAmount": 0,
+                    "maxAmount": 1,
+                    "digits": 0,
+                    "divisor": 1,
+                    "inverse": true,
+                    "_id": "6229f8718531a979c77b221f",
+                    "id": "6229f8718531a979c77b221f",
+                    "label": ""
+                  },
+                  {
+                    "minAmount": 1,
+                    "digits": 1,
+                    "divisor": 1,
+                    "inverse": false,
+                    "_id": "6229f8718531a979c77b2220",
+                    "id": "6229f8718531a979c77b2220",
+                    "label": ""
+                  }
+                ],
+                "comments": "taille FR naturelle"
+              },
+              "quantityPerCover": 0.166667
+            },
+            "unit": {
+              "_id": "598c23d414246c127285c14b",
+              "id": "598c23d414246c127285c14b"
+            },
+            "additionalMeasures": [],
+            "alternatives": []
+          },
+          {
+            "isOptional": false,
+            "ingredient": {
+              "_id": "59aaf918797a8c00111778a2",
+              "id": "59aaf918797a8c00111778a2",
+              "alternativeUnits": [
+                {
+                  "unit": {
+                    "_id": "599215dde9f1de001116bbb6",
+                    "id": "599215dde9f1de001116bbb6",
+                    "updatedAt": "2021-11-22T16: 18: 56.411Z",
+                    "createdAt": "2017-08-14T21: 27: 57.899Z",
+                    "name": "Cuillère à soupe",
+                    "__v": 4,
+                    "measurementSystemCompatibility": {
+                      "metric": true,
+                      "imperial": true,
+                      "us": true
+                    },
+                    "abbreviations": [
+                      {
+                        "label": "càs",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "619bc2f0934d1027ae7f53fb",
+                        "id": "619bc2f0934d1027ae7f53fb",
+                        "minAmount": 0,
+                        "maxAmount": 1
+                      },
+                      {
+                        "label": "càs",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "619bc2f0934d1027ae7f53fc",
+                        "id": "619bc2f0934d1027ae7f53fc",
+                        "minAmount": 1
+                      }
+                    ]
+                  },
+                  "quantity": 0.01,
+                  "_id": "5a4669a6b64443001487c2c5",
+                  "id": "5a4669a6b64443001487c2c5"
+                },
+                {
+                  "unit": {
+                    "_id": "5cb881fc5acada2b81b7398a",
+                    "id": "5cb881fc5acada2b81b7398a",
+                    "name": "Cup",
+                    "createdAt": "2019-04-18T13: 56: 12.571Z",
+                    "updatedAt": "2022-03-29T14: 03: 55.297Z",
+                    "__v": 24,
+                    "abbreviations": [
+                      {
+                        "label": "cup",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "624311cb73b88a5edb5dfa1d",
+                        "id": "624311cb73b88a5edb5dfa1d",
+                        "minAmount": 0,
+                        "maxAmount": 1.001
+                      },
+                      {
+                        "label": "cups",
+                        "digits": 1,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "624311cb73b88a5edb5dfa1e",
+                        "id": "624311cb73b88a5edb5dfa1e",
+                        "minAmount": 1.001
+                      }
+                    ],
+                    "measurementSystemCompatibility": {
+                      "imperial": false,
+                      "metric": false,
+                      "us": true
+                    }
+                  },
+                  "quantity": 0.236,
+                  "_id": "5cb8825d5acada2b81b7398c",
+                  "id": "5cb8825d5acada2b81b7398c"
+                },
+                {
+                  "unit": {
+                    "_id": "5d809ab4b982cb6b3d7586ba",
+                    "id": "5d809ab4b982cb6b3d7586ba",
+                    "measurementSystemCompatibility": {
+                      "metric": false,
+                      "imperial": true,
+                      "us": true
+                    },
+                    "name": "Once liquide",
+                    "createdAt": "2019-09-17T08: 35: 00.551Z",
+                    "updatedAt": "2020-03-05T10: 15: 19.019Z",
+                    "__v": 3,
+                    "abbreviations": [
+                      {
+                        "label": "fl oz",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "5e60d13747401d500e61eb85",
+                        "id": "5e60d13747401d500e61eb85",
+                        "minAmount": 0,
+                        "maxAmount": 1
+                      },
+                      {
+                        "label": "fl oz",
+                        "digits": 1,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "5e60d13747401d500e61eb84",
+                        "id": "5e60d13747401d500e61eb84",
+                        "minAmount": 1
+                      }
+                    ]
+                  },
+                  "quantity": 0.0296,
+                  "_id": "5d809b0bb982cb6b3d7586bc",
+                  "id": "5d809b0bb982cb6b3d7586bc"
+                },
+                {
+                  "unit": {
+                    "_id": "6157149917d8e10eba6fd0b7",
+                    "id": "6157149917d8e10eba6fd0b7",
+                    "__v": 2,
+                    "abbreviations": [
+                      {
+                        "label": "gal",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "64a807980a1841392fbd638e",
+                        "id": "64a807980a1841392fbd638e",
+                        "minAmount": 0,
+                        "maxAmount": 1
+                      }
+                    ],
+                    "createdAt": "2021-10-01T14: 00: 57.502Z",
+                    "measurementSystemCompatibility": {
+                      "metric": false,
+                      "imperial": true,
+                      "us": true
+                    },
+                    "name": "Gallon ",
+                    "updatedAt": "2023-07-07T12: 39: 52.893Z"
+                  },
+                  "quantity": 3.78541,
+                  "_id": "6157178c17d8e10eba6fd0f2",
+                  "id": "6157178c17d8e10eba6fd0f2"
+                },
+                {
+                  "unit": {
+                    "_id": "5d5d5629aa9d522a3f884ae3",
+                    "id": "5d5d5629aa9d522a3f884ae3",
+                    "measurementSystemCompatibility": {
+                      "metric": true,
+                      "imperial": false,
+                      "us": false
+                    },
+                    "name": "Kilogramme",
+                    "createdAt": "2019-08-21T14: 33: 13.749Z",
+                    "updatedAt": "2025-03-26T09: 57: 59.382Z",
+                    "__v": 3,
+                    "abbreviations": [
+                      {
+                        "minAmount": 0,
+                        "maxAmount": 0.001,
+                        "digits": 0,
+                        "divisor": 1000000,
+                        "inverse": false,
+                        "_id": "5e5fc72840f533a26f0ad476",
+                        "id": "5e5fc72840f533a26f0ad476",
+                        "label": "mg"
+                      },
+                      {
+                        "minAmount": 0.001,
+                        "maxAmount": 1,
+                        "digits": 0,
+                        "divisor": 1000,
+                        "inverse": false,
+                        "_id": "5e5fc72840f533a26f0ad475",
+                        "id": "5e5fc72840f533a26f0ad475",
+                        "label": "g"
+                      },
+                      {
+                        "minAmount": 1,
+                        "digits": 1,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "5e5fd479a9d69f51009e1dee",
+                        "id": "5e5fd479a9d69f51009e1dee",
+                        "label": "kg"
+                      }
+                    ],
+                    "comments": "alternative"
+                  },
+                  "quantity": 1,
+                  "_id": "63e10cc2bf5a6233d3d6b4e0",
+                  "id": "63e10cc2bf5a6233d3d6b4e0"
+                }
+              ],
+              "imageUrl": "ingredients/UbHoDpGIcLY0AQ.png.webp",
+              "name": "Lait",
+              "naturalUnit": {
+                "_id": "598c237f14246c127285c149",
+                "id": "598c237f14246c127285c149",
+                "updatedAt": "2025-03-26T09: 58: 44.385Z",
+                "createdAt": "2017-08-10T09: 12: 31.763Z",
+                "isNatural": true,
+                "name": "Litre",
+                "__v": 6,
+                "measurementSystemCompatibility": {
+                  "metric": true,
+                  "imperial": false,
+                  "us": false
+                },
+                "abbreviations": [
+                  {
+                    "minAmount": 0,
+                    "maxAmount": 1,
+                    "digits": 0,
+                    "divisor": 1000,
+                    "inverse": false,
+                    "_id": "65a80cc1221c78000f3943b8",
+                    "id": "65a80cc1221c78000f3943b8",
+                    "label": "ml"
+                  },
+                  {
+                    "minAmount": 1,
+                    "digits": 1,
+                    "divisor": 1,
+                    "inverse": false,
+                    "_id": "5e5fd47ea9d69f51009e1df2",
+                    "id": "5e5fd47ea9d69f51009e1df2",
+                    "label": "L"
+                  }
+                ],
+                "comments": "naturelle"
+              },
+              "quantityPerCover": 0.166667
+            },
+            "unit": {
+              "_id": "598c237f14246c127285c149",
+              "id": "598c237f14246c127285c149"
+            },
+            "additionalMeasures": [],
+            "alternatives": []
+          },
+          {
+            "isOptional": true,
+            "ingredient": {
+              "_id": "5cf11ee996f8d744fcb2cac1",
+              "id": "5cf11ee996f8d744fcb2cac1",
+              "alternativeUnits": [
+                {
+                  "_id": "5d6e10f2d42034318c8f0e52",
+                  "id": "5d6e10f2d42034318c8f0e52",
+                  "unit": {
+                    "_id": "599215dde9f1de001116bbb6",
+                    "id": "599215dde9f1de001116bbb6",
+                    "updatedAt": "2021-11-22T16: 18: 56.411Z",
+                    "createdAt": "2017-08-14T21: 27: 57.899Z",
+                    "name": "Cuillère à soupe",
+                    "__v": 4,
+                    "measurementSystemCompatibility": {
+                      "metric": true,
+                      "imperial": true,
+                      "us": true
+                    },
+                    "abbreviations": [
+                      {
+                        "label": "càs",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "619bc2f0934d1027ae7f53fb",
+                        "id": "619bc2f0934d1027ae7f53fb",
+                        "minAmount": 0,
+                        "maxAmount": 1
+                      },
+                      {
+                        "label": "càs",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "619bc2f0934d1027ae7f53fc",
+                        "id": "619bc2f0934d1027ae7f53fc",
+                        "minAmount": 1
+                      }
+                    ]
+                  },
+                  "quantity": 0.015
+                },
+                {
+                  "_id": "5db2bfcb283d0a5d65d00646",
+                  "id": "5db2bfcb283d0a5d65d00646",
+                  "unit": {
+                    "_id": "599215cce9f1de001116bbb5",
+                    "id": "599215cce9f1de001116bbb5",
+                    "updatedAt": "2021-11-16T11: 13: 33.964Z",
+                    "createdAt": "2017-08-14T21: 27: 40.521Z",
+                    "name": "Cuillère à café",
+                    "__v": 2,
+                    "measurementSystemCompatibility": {
+                      "metric": true,
+                      "imperial": true,
+                      "us": true
+                    },
+                    "abbreviations": [
+                      {
+                        "label": "càc",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "5e5fc39240f533a26f0ad3eb",
+                        "id": "5e5fc39240f533a26f0ad3eb",
+                        "minAmount": 0,
+                        "maxAmount": 1
+                      },
+                      {
+                        "label": "càc",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "5e5fc39240f533a26f0ad3ea",
+                        "id": "5e5fc39240f533a26f0ad3ea",
+                        "minAmount": 1
+                      }
+                    ]
+                  },
+                  "quantity": 0.007
+                },
+                {
+                  "_id": "61683063eaecdd0edcb08bb6",
+                  "id": "61683063eaecdd0edcb08bb6",
+                  "unit": {
+                    "_id": "5cb881fc5acada2b81b7398a",
+                    "id": "5cb881fc5acada2b81b7398a",
+                    "name": "Cup",
+                    "createdAt": "2019-04-18T13: 56: 12.571Z",
+                    "updatedAt": "2022-03-29T14: 03: 55.297Z",
+                    "__v": 24,
+                    "abbreviations": [
+                      {
+                        "label": "cup",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "624311cb73b88a5edb5dfa1d",
+                        "id": "624311cb73b88a5edb5dfa1d",
+                        "minAmount": 0,
+                        "maxAmount": 1.001
+                      },
+                      {
+                        "label": "cups",
+                        "digits": 1,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "624311cb73b88a5edb5dfa1e",
+                        "id": "624311cb73b88a5edb5dfa1e",
+                        "minAmount": 1.001
+                      }
+                    ],
+                    "measurementSystemCompatibility": {
+                      "imperial": false,
+                      "metric": false,
+                      "us": true
+                    }
+                  },
+                  "quantity": 0.237
+                },
+                {
+                  "_id": "61683063eaecdd0edcb08bba",
+                  "id": "61683063eaecdd0edcb08bba",
+                  "unit": {
+                    "_id": "5d809ab4b982cb6b3d7586ba",
+                    "id": "5d809ab4b982cb6b3d7586ba",
+                    "measurementSystemCompatibility": {
+                      "metric": false,
+                      "imperial": true,
+                      "us": true
+                    },
+                    "name": "Once liquide",
+                    "createdAt": "2019-09-17T08: 35: 00.551Z",
+                    "updatedAt": "2020-03-05T10: 15: 19.019Z",
+                    "__v": 3,
+                    "abbreviations": [
+                      {
+                        "label": "fl oz",
+                        "digits": 0,
+                        "divisor": 1,
+                        "inverse": true,
+                        "_id": "5e60d13747401d500e61eb85",
+                        "id": "5e60d13747401d500e61eb85",
+                        "minAmount": 0,
+                        "maxAmount": 1
+                      },
+                      {
+                        "label": "fl oz",
+                        "digits": 1,
+                        "divisor": 1,
+                        "inverse": false,
+                        "_id": "5e60d13747401d500e61eb84",
+                        "id": "5e60d13747401d500e61eb84",
+                        "minAmount": 1
+                      }
+                    ]
+                  },
+                  "quantity": 0.03
+                }
+              ],
+              "imageUrl": "ingredients/3JvLOSgEghC1jQ.png.webp",
+              "name": "Vanille (extrait)",
+              "naturalUnit": {
+                "_id": "598c237f14246c127285c149",
+                "id": "598c237f14246c127285c149",
+                "updatedAt": "2025-03-26T09: 58: 44.385Z",
+                "createdAt": "2017-08-10T09: 12: 31.763Z",
+                "isNatural": true,
+                "name": "Litre",
+                "__v": 6,
+                "measurementSystemCompatibility": {
+                  "metric": true,
+                  "imperial": false,
+                  "us": false
+                },
+                "abbreviations": [
+                  {
+                    "minAmount": 0,
+                    "maxAmount": 1,
+                    "digits": 0,
+                    "divisor": 1000,
+                    "inverse": false,
+                    "_id": "65a80cc1221c78000f3943b8",
+                    "id": "65a80cc1221c78000f3943b8",
+                    "label": "ml"
+                  },
+                  {
+                    "minAmount": 1,
+                    "digits": 1,
+                    "divisor": 1,
+                    "inverse": false,
+                    "_id": "5e5fd47ea9d69f51009e1df2",
+                    "id": "5e5fd47ea9d69f51009e1df2",
+                    "label": "L"
+                  }
+                ],
+                "comments": "naturelle"
+              },
+              "quantityPerCover": 0.166667
+            },
+            "unit": {
+              "_id": "599215cce9f1de001116bbb5",
+              "id": "599215cce9f1de001116bbb5"
+            },
+            "additionalMeasures": [],
+            "alternatives": [
+              {
+                "ingredient": {
+                  "_id": "5cf11ec196f8d744fcb2cabf",
+                  "id": "5cf11ec196f8d744fcb2cabf",
+                  "name": "Vanille (gousse)",
+                  "imageUrl": "ingredients/qL9tX9Dbh230eQ.png.webp"
+                }
+              }
+            ]
+          },
+          {
+            "isOptional": true,
+            "ingredient": {
+              "_id": "62c6f0a256ff8719e612471a",
+              "id": "62c6f0a256ff8719e612471a",
+              "alternativeUnits": [],
+              "imageUrl": "ingredients/FSoyVhAesLDvwA.jpg.webp",
+              "name": "Pralin",
+              "naturalUnit": {
+                "_id": "598c239e14246c127285c14a",
+                "id": "598c239e14246c127285c14a",
+                "updatedAt": "2025-03-26T09: 57: 46.671Z",
+                "createdAt": "2017-08-10T09: 13: 02.818Z",
+                "isNatural": true,
+                "name": "Kilogramme",
+                "__v": 17,
+                "measurementSystemCompatibility": {
+                  "metric": true,
+                  "imperial": false,
+                  "us": false
+                },
+                "abbreviations": [
+                  {
+                    "minAmount": 0,
+                    "maxAmount": 0.001,
+                    "digits": 0,
+                    "divisor": 1000000,
+                    "inverse": false,
+                    "_id": "5e60d30747401d500e61eb8d",
+                    "id": "5e60d30747401d500e61eb8d",
+                    "label": "mg"
+                  },
+                  {
+                    "minAmount": 0.001,
+                    "maxAmount": 1,
+                    "digits": 0,
+                    "divisor": 1000,
+                    "inverse": false,
+                    "_id": "5e5fc70840f533a26f0ad471",
+                    "id": "5e5fc70840f533a26f0ad471",
+                    "label": "g"
+                  },
+                  {
+                    "minAmount": 1,
+                    "digits": 1,
+                    "divisor": 1,
+                    "inverse": false,
+                    "_id": "5e5fd473a9d69f51009e1dea",
+                    "id": "5e5fd473a9d69f51009e1dea",
+                    "label": "kg"
+                  }
+                ],
+                "comments": "naturelle"
+              },
+              "quantityPerCover": 0.006667
+            },
+            "unit": {
+              "_id": "598c239e14246c127285c14a",
+              "id": "598c239e14246c127285c14a"
+            },
+            "additionalMeasures": [],
+            "alternatives": []
+          }
+        ],
+        "imageUrl": "recipes/zF1QjVj1UaEM3Q.png",
+        "isAvailable": true,
+        "isTasteCompatible": true,
+        "unavailableIngredientsIds": [],
+        "isRecipeAuthor": false
+      }
+    ],
+    "totalCount": 3,
+    "links": {
+      "self": "/recipe/quicksearch?availabilityZoneId=FR&limit=5&query=1"
+    }
+  }
+}

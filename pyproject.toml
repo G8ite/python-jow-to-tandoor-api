@@ -1,0 +1,21 @@
+[project]
+name = "jow-to-tandoor"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Your Name",email = "you@example.com"}
+]
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi (>=0.165.0,<0.166.0)",
+    "uvicorn (>=0.54.0,<0.55.0)",
+    "certifi (>=2026.10.23,<2027.0.0)",
+    "charset-normalizer (>=3.5.2,<4.0.0)",
+    "requests (>=2.34.2,<3.0.0)",
+    "urllib3 (>=2.8.0,<3.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
